@@ -1,0 +1,1080 @@
+../data/DUMMY2/p282/p282_147.wav|83|hiː sˈɛts ðə nˈeɪtʃɚɹ ʌv hɪz pˈɑːɹləmənt ɪn ɐ sˈɪmpəl, ɹiːəlˈɪstɪk kˈɑːntɛkst.
+../data/DUMMY2/p282/p282_246.wav|83|ɪt wʌzɐ hˈɪt.
+../data/DUMMY2/p282/p282_316.wav|83|ðeɪ wɪl sˈɜːʔn̩li biː vˈɪzᵻbəl fɹʌm ˈɛvɹi hˈaʊs ɪn ˌaʊɚɹ ˈɛɹiə.
+../data/DUMMY2/p282/p282_285.wav|83|hˌuː dˈɪd ðə ɹᵻkɹˈuːɾɪŋ?
+../data/DUMMY2/p282/p282_004.wav|83|wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz.
+../data/DUMMY2/p282/p282_103.wav|83|tˈuː ʌvðə tˈiːm bɪkˌeɪm ˈɪl.
+../data/DUMMY2/p282/p282_250.wav|83|ɪɾ ɪz fæntˈæstɪk ðæt ˈʌðɚ wˈɪmɪn wɪl biː ˈeɪbəl tə bˈɛnɪfˌɪt.
+../data/DUMMY2/p282/p282_016.wav|83|ðə nˈoːɹsɪmˌɛŋ kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.
+../data/DUMMY2/p282/p282_079.wav|83|pˈiːpəl mˈʌst ɹᵻmˈeɪn vˈɪdʒɪlənt.
+../data/DUMMY2/p282/p282_308.wav|83|kɹˈɪs smˈɪθ, ðə kˈʌltʃɚ sˈɛkɹətɹi, sˈɛd hiː wʌz sˈæɾɪsfˌaɪd wɪððə dᵻsˈɪʒən.
+../data/DUMMY2/p363/p363_402.wav|6|aɪɐm dˈɛspɚɹət tə plˈeɪ fɔːɹ skˈɑːtlənd.
+../data/DUMMY2/p363/p363_111.wav|6|wiː ɑːɹ mˌeɪkɪŋ nˈoʊ kˈɑːmɛnt.
+../data/DUMMY2/p363/p363_397.wav|6|juː kˈænt tˈeɪk ɐ tʃˈæns.
+../data/DUMMY2/p363/p363_024.wav|6|ðɪs ɪz ɐ vˈɛɹi kˈɑːmən tˈaɪp ʌv bˈoʊ, wˈʌn ʃˈoʊɪŋ mˈeɪnli ɹˈɛd ænd jˈɛloʊ, wɪð lˈɪɾəl ɔːɹ nˈoʊ ɡɹˈiːn ɔːɹ blˈuː.
+../data/DUMMY2/p363/p363_274.wav|6|hɪz fjˈuːnɚɹəl ɪz nˌɑːt ɛkspˈɛktᵻd ʌntˈɪl nˈɛkst wˈiːk.
+../data/DUMMY2/p363/p363_295.wav|6|ɪt ʃˌʊd biː ˈiːkwəl.
+../data/DUMMY2/p363/p363_259.wav|6|ɪɾ ɪz nˌɑːɾə sˈoʊp ˈɑːpɚɹə.
+../data/DUMMY2/p363/p363_150.wav|6|aɪ dˈɪdnt ɹˈiəli ɛkspˈɛkt təbi kˈɔːld ˈʌp.
+../data/DUMMY2/p363/p363_371.wav|6|haʊˈɛvɚ, ɪt wʌz wˈɛl wˈɜːθ ðə wˈeɪt.
+../data/DUMMY2/p363/p363_239.wav|6|aɪm sˌoʊ lˈʊkɪŋ fˈɔːɹwɚd tʊ ɪt.
+../data/DUMMY2/p376/p376_099.wav|71|"mˈiːnwaɪl, ðə skˈɑːɾɪʃ kənsˈuːmɚ kˈaʊnsəl jˈɛstɚdˌeɪ ˈɔfɚd səpˈoːɹt fɚðə nˈuː bˈɪl."
+../data/DUMMY2/p376/p376_094.wav|71|"ðə sᵻlˈɛkʃən pɹˈɑːsɛs ɪz stˈɪl æɾə vˈɛɹi ˈɜːli stˈeɪdʒ."
+../data/DUMMY2/p376/p376_158.wav|71|"maɪ dˈæd ɪz ɐ hˈiəɹoʊ."
+../data/DUMMY2/p376/p376_084.wav|71|"ðæt wɪl kˈʌm ˈæftɚ ðə ɡˈeɪm ˌɔn sˈæɾɚdˌeɪ."
+../data/DUMMY2/p376/p376_001.wav|71|"plˈiːz kˈɔːl stˈɛlə.  "
+../data/DUMMY2/p376/p376_183.wav|71|"aɪ sˈɔː mˈɪlətˌɛɹi vˈiəkəlz ɪnðə dˈɪstəns."
+../data/DUMMY2/p376/p376_089.wav|71|"ðɪ ˈɔɪl kˈʌmpəniz wʊd biː ˈæskt tə kəntɹˈɪbjuːt."
+../data/DUMMY2/p376/p376_107.wav|71|"wiː ɑːɹ dɪtˈɜːmɪnd tə kəntˈɪnjuː ˌɔn ðɪs mˈɪʃən ænd wiː wɪl pɹɪvˈeɪl."
+../data/DUMMY2/p376/p376_288.wav|71|"hiː ʃˌʊdəv wˈʌn."
+../data/DUMMY2/p376/p376_082.wav|71|"ɪt dʒˈʌst ʃˈoʊz ðɪ ˈæɹəɡəns ʌv lˈeɪbɚ ænd ðə lˈɪbɚɹəl dˈɛməkɹˌæts."
+../data/DUMMY2/p362/p362_160.wav|15|ˈiːvən fɚɹə bɹˈɪɾɪʃ ˈoʊpən, ðɪs ɪz dˈɪfɹənt.
+../data/DUMMY2/p362/p362_046.wav|15|ðə kˈɔːz ɪz dʒˈʌst.
+../data/DUMMY2/p362/p362_352.wav|15|ðə kənvˈɜːʒən dˈɪdnt ɡˌoʊ ˌoʊvɚɹ ˈiːðɚ.
+../data/DUMMY2/p362/p362_208.wav|15|ɪt wʌz kɹˈuːʃəl stɹˈaɪk.
+../data/DUMMY2/p362/p362_007.wav|15|ðə ɹˈeɪnboʊ ɪz ɐ dᵻvˈɪʒən ʌv wˈaɪt lˈaɪt ˌɪntʊ mˈɛni bjˈuːɾifəl kˈʌlɚz.
+../data/DUMMY2/p362/p362_116.wav|15|hiː ɪz ɪnvˈɑːlvd ɪn ˈɛvɹɪθˌɪŋ.
+../data/DUMMY2/p362/p362_244.wav|15|wiː dˈoʊnt wˈɔnt təbi tˈuː ɪntɹˈuːsɪv.
+../data/DUMMY2/p362/p362_194.wav|15|lˈæst jˈɪɹ, ɪt wʌz wˈʌn baɪ dʒˈæk mə kˈɑːnəl, ðə fˈɜːst mˈɪnɪstɚ.
+../data/DUMMY2/p362/p362_241.wav|15|bˌʌt wiː ɑːɹ wˈɜːkɪŋ təɡˌɛðɚ fɔːɹ ðɪs ɹɪzˈʌlt.
+../data/DUMMY2/p362/p362_370.wav|15|plˈɑːt ɪz nˌɑːt ðɪ ˈɪʃuː.
+../data/DUMMY2/p258/p258_166.wav|26|ðeɪ θˈɔːt ðeɪ hæd fˈaʊnd ɐ hˈoʊm.
+../data/DUMMY2/p258/p258_245.wav|26|juː kæn fˈiːl æt hˈoʊm ɪn tʃˈaɪnə.
+../data/DUMMY2/p258/p258_222.wav|26|fɹˈɛndz ʌvðɪ ˈɜːθ skˈɑːtlənd lˈæst nˈaɪt wˈɛlkʌmd ðɪ ɐnˈaʊnsmənt.
+../data/DUMMY2/p258/p258_075.wav|26|haʊˈɛvɚ, wiː wɪl ˈɑːbviəsli kˈiːp ðə mˈæɾɚɹ ˌʌndɚ ɹᵻvjˈuː.
+../data/DUMMY2/p258/p258_119.wav|26|ˌoʊvɚɹˈɔːl, ɪt wʌzɐ pɹˈɑːmɪsɪŋ dˈeɪ fɚðə skˈɑːts.
+../data/DUMMY2/p258/p258_403.wav|26|maɪ hˈaʊs wʌz ʃˈeɪkɪŋ æt ðə tˈaɪm.
+../data/DUMMY2/p258/p258_182.wav|26|ðə dʒˈʌdʒᵻz wɪl ɡˈɪv ɐ ɹˈuːlɪŋ nˈɛkst wˈɛnzdeɪ.
+../data/DUMMY2/p258/p258_278.wav|26|ɪts ɐ wˈeɪ ʌv lˈaɪf.
+../data/DUMMY2/p258/p258_199.wav|26|bˌʌt ʃiː mˌaɪt bˈiː.
+../data/DUMMY2/p258/p258_141.wav|26|lˈeɪbɚz skˈɑːɾɪʃ dʒˈɛnɚɹəl sˈɛkɹətɹi ˈælɪks ɹˈoʊli wʌz dᵻlˈaɪɾᵻd jˈɛstɚdˌeɪ.
+../data/DUMMY2/p340/p340_335.wav|74|ðə ɡˈʌvɚnmənt ɐɡɹˈiːd tə pˈeɪ.
+../data/DUMMY2/p340/p340_054.wav|74|aɪ sˈɜːʔn̩li θˈɪŋk ɪts vˈɛɹi ʃˈɔːɹtsˈaɪɾᵻd.
+../data/DUMMY2/p340/p340_030.wav|74|wiːv nˌɑːt wˈʌn ˈɛnɪθˌɪŋ jˈɛt.
+../data/DUMMY2/p340/p340_314.wav|74|aɪ hæv stˈɪl tə hˈɪɹ ɐbˌaʊt ðˈæt.
+../data/DUMMY2/p340/p340_079.wav|74|hiː ɪz nˈaʊ bˈæk ɪn bɹˈɪtən.
+../data/DUMMY2/p340/p340_337.wav|74|ɪt wʌzɐ vˈɛɹi tˈɛɹᵻbəl θˈɪŋ.
+../data/DUMMY2/p340/p340_245.wav|74|aɪ ʃˌʊd θˈɪŋk sˈoʊ, tˈuː.
+../data/DUMMY2/p340/p340_068.wav|74|ɪɾ ɪz tˈaɪm fɚðə tˈɔːkɪŋ tə stˈɑːp.
+../data/DUMMY2/p340/p340_401.wav|74|ðɛɹwˌʌz mˈʌtʃ təbi pˈɑːzᵻtˌɪv ɐbˈaʊt.
+../data/DUMMY2/p340/p340_379.wav|74|ɪt fˈiːlz lˈaɪk ɐ wˈɪnɚɹ ɔːlɹˈɛdi.
+../data/DUMMY2/p311/p311_373.wav|4|ænd ðˈɛn hiː lˈæfz.
+../data/DUMMY2/p311/p311_156.wav|4|ɪts lˈaɪk ɐ hˈaɪ skˈuːl plˈeɪ.
+../data/DUMMY2/p311/p311_147.wav|4|aɪ bᵻlˈiːv ɪn tɹˈeɪd jˈuːniənz.
+../data/DUMMY2/p311/p311_227.wav|4|ðoʊz wɜː ðə dˈeɪz, ˌɪndˈiːd.
+../data/DUMMY2/p311/p311_160.wav|4|æt lˈiːst tˈuː wˈɪmɪn wɜːɹ ɐmˌʌŋ ðoʊz ɚɹˈɛstᵻd.
+../data/DUMMY2/p311/p311_020.wav|4|mˈɛni kˈɑːmplᵻkˌeɪɾᵻd aɪdˈiəz ɐbˌaʊt ðə ɹˈeɪnboʊ hɐvbɪn fˈɔːɹmd.
+../data/DUMMY2/p311/p311_205.wav|4|ˌaʊɚ mˈɛsɪdʒ wʌz ɪŋklˈuːsɪv.
+../data/DUMMY2/p311/p311_351.wav|4|ɪɾ ɪz fˈɪzɪkəl bˌʌt ɪɾ ɪz ˈɔːlsoʊ ɡˈʊd.
+../data/DUMMY2/p311/p311_016.wav|4|ðə nˈoːɹsɪmˌɛŋ kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.
+../data/DUMMY2/p311/p311_367.wav|4|ˌaʊɚ ɡɹˈeɪt dᵻpɹˈɛʃən ɪz ˌaʊɚ lˈaɪvz.
+../data/DUMMY2/p360/p360_092.wav|60|ɪt wʌz lˈʊkɪŋ bˈæd.
+../data/DUMMY2/p360/p360_139.wav|60|ᵻlˈɛkʃənz wʊd fˈɑːloʊ ɪn ɐbˌaʊt tˈuː jˈɪɹz.
+../data/DUMMY2/p360/p360_288.wav|60|aɪ hæv plˈeɪd wˈɛl ðə pˈæst tˈuː dˈeɪz.
+../data/DUMMY2/p360/p360_379.wav|60|ɪt mˈɛnt ɐ lˈɑːt tʊ ˌʌs.
+../data/DUMMY2/p360/p360_252.wav|60|bˌʌt ɪt wʌz tˈuː lˈeɪt.
+../data/DUMMY2/p360/p360_382.wav|60|ðɪs kˈʌntɹi hɐz mˈɛni tʃˈælɪndʒᵻz.
+../data/DUMMY2/p360/p360_365.wav|60|ʃiː hɐz nˈɛvɚ bˌɪn bˈæk.
+../data/DUMMY2/p360/p360_034.wav|60|fɔːɹ wˈʌns hiː wʌz ɹˈɔŋ.
+../data/DUMMY2/p360/p360_420.wav|60|tˈaɪɡɚɹ ɪz ðɪ ɛksˈɛpʃən.
+../data/DUMMY2/p360/p360_314.wav|60|ænd ðæt mˈætʃ wʌz plˈeɪd ɪn dʒˈuːn.
+../data/DUMMY2/p336/p336_361.wav|98|bˌʌt ðɪs ɹˈɛlətˌɪv səksˈɛs həznɑːt bˌɪn ˈiːzi.
+../data/DUMMY2/p336/p336_259.wav|98|aɪm hˈæpi ðæt wiː hæv ɐɡɹˈiːd.
+../data/DUMMY2/p336/p336_337.wav|98|wˈʊdənt ɪt biː nˈaɪs?
+../data/DUMMY2/p336/p336_083.wav|98|wʊd juː hæv ˈɛvɚ bᵻlˈiːvd ðæt wʌz pˈɑːsᵻbəl?
+../data/DUMMY2/p336/p336_057.wav|98|ðə kɹˈækdaʊn ɪz lˈɑːntʃt tədˈeɪ baɪ ðə ɡˈʌvɚnmənt.
+../data/DUMMY2/p336/p336_376.wav|98|æt ðɪs pˈɔɪnt wiː kæn ˈoʊnli spˈɛkjʊlˌeɪt.
+../data/DUMMY2/p336/p336_013.wav|98|sˌʌm hæv ɐksˈɛptᵻd ɪɾ æz ɐ mˈɪɹəkəl wɪðˌaʊt fˈɪzɪkəl ɛksplɐnˈeɪʃən.
+../data/DUMMY2/p336/p336_014.wav|98|tə ðə hˈiːbɹuːz ɪt wʌzɐ tˈoʊkən ðæt ðɛɹ wʊd biː nˈoʊmˌoːɹ jˌuːnɪvˈɜːsəl flˈʌdz.
+../data/DUMMY2/p336/p336_281.wav|98|ðɛɹ ɪz nˈoʊ ˈiːzi ˈænsɚ.
+../data/DUMMY2/p336/p336_392.wav|98|aɪ wʌz lˈɪvɪŋ wɪð maɪ mˈʌm.
+../data/DUMMY2/p226/p226_225.wav|43|ɐ kɚɹˈɪɹ æz ɐ dˈɑːktɚɹ ɪz ˌɔn hˈoʊld.
+../data/DUMMY2/p226/p226_346.wav|43|bˌʌt ðə dɪzˈiːz həznɑːt bˌɪŋ kənfˈaɪnd tə ðə tˈoːɹi pˈɑːɹɾi.
+../data/DUMMY2/p226/p226_040.wav|43|ɪt wʌz klˈɪɹ.
+../data/DUMMY2/p226/p226_311.wav|43|aɪ wʌz kənsˈɜːnd wɪððə wˈeɪ ðeɪ tɹˈaɪd tə dʒˈʌstᵻfˌaɪ hɪz ˈækʃənz.
+../data/DUMMY2/p226/p226_214.wav|43|aɪm plˈiːzd ɐbˌaʊt wˈʌn θˈɪŋ.
+../data/DUMMY2/p226/p226_279.wav|43|ɪn ˈɛsəns, ðə tˈiːtʃɪŋ pɹəfˈɛʃən hɐz ɐ tʃˈɔɪs.
+../data/DUMMY2/p226/p226_370.wav|43|sˈædəm ɪz nˌɑːt ðɪ ˈoʊnli ɛɡzˈæmpəl ʌv ˈiːvəl ɪn ˌaʊɚ wˈɜːld.
+../data/DUMMY2/p226/p226_206.wav|43|sˌʌm ɹˈiːəlɪzəm wʌz nˈiːdᵻd ɐbˌaʊt tˈaɪm, ɹᵻsˈoːɹsᵻz ænd mˈænɪdʒmənt.
+../data/DUMMY2/p226/p226_189.wav|43|ðə hˈoʊl pɹˈɑːsɛs ɪz ɐ vˈɪʃəs sˈɜːkəl æt ðə mˈoʊmənt.
+../data/DUMMY2/p226/p226_313.wav|43|ðə mˈɪnɪstɚɹ ɪz ðɪ ˌɛndʒɪnˈɪɹ.
+../data/DUMMY2/p292/p292_191.wav|13|aɪ hæv nˈʌθɪŋ tə hˈaɪd.
+../data/DUMMY2/p292/p292_334.wav|13|ðɪs kˈʌntɹi hɐz mˈɛni tʃˈælɪndʒᵻz.
+../data/DUMMY2/p292/p292_078.wav|13|ðɛɹz ˈoʊnli wˈʌn wˈɜːd fɔːɹ ɪt.
+../data/DUMMY2/p292/p292_379.wav|13|ðæts nˌɑːt lˈaɪk ˌʌs æɾ ˈɔːl.
+../data/DUMMY2/p292/p292_175.wav|13|hiː ɪz ðɪ ɛɡzˈæmpəl fɔːɹ ˈɔːl ʌv ˌʌs.
+../data/DUMMY2/p292/p292_047.wav|13|stɹˈʌktʃɚɹəl tʃˈeɪndʒᵻz wɜːɹ ˈɔːlsoʊ ɹᵻkwˈaɪɚd.
+../data/DUMMY2/p292/p292_321.wav|13|spˈɛʃəl mˈɛʒɚz wɜː nˈiːdᵻd.
+../data/DUMMY2/p292/p292_033.wav|13|ɔːɹ ɪts nˌɑːt ɹˈiəli fɔːɹ ˌʌs, ɪf juː lˈaɪk.
+../data/DUMMY2/p292/p292_211.wav|13|pˈiːpəl hæv nˈoʊ tʃˈæns ʌv ɡˌɛɾɪŋ ˈaʊt.
+../data/DUMMY2/p292/p292_400.wav|13|lˈaɪf ɪz ɐbˌaʊt pˈiːpəl, ænd hˌaʊ juː fˈiːl ɐbˌaʊt pˈiːpəl.
+../data/DUMMY2/p304/p304_378.wav|72|wˈɛl, wˌʌt kæn juː dˈuː?
+../data/DUMMY2/p304/p304_343.wav|72|ðɛɹ wˈʌzn̩t ˈɛnɪθˌɪŋ ɪn ɪt.
+../data/DUMMY2/p304/p304_370.wav|72|ðɪs wʌzɐ vˈɛɹi tɹˈædʒɪk ˈæksɪdənt.
+../data/DUMMY2/p304/p304_146.wav|72|ðɪs ɪz ɐ tˈoʊɾəl mˈɪstɚɹi.
+../data/DUMMY2/p304/p304_271.wav|72|ɑːɹ wiː ɡˌoʊɪŋ tə stˈeɪ ˈʌp?
+../data/DUMMY2/p304/p304_217.wav|72|sˈʌtʃ ˈækʃənz ɑːɹ ɹˈɛɹli pˈɑːpjʊlɚ.
+../data/DUMMY2/p304/p304_157.wav|72|maɪ ɡˈoʊl wʌz vˈɛɹi ɪmpˈoːɹtənt tə ðə tˈiːm.
+../data/DUMMY2/p304/p304_185.wav|72|ðɛɹwˌɜː sˌoʊ mˈɛni kˈæɹɪktɚz ɐmˈʌŋ ðˌɛm.
+../data/DUMMY2/p304/p304_057.wav|72|aɪ hæv ɡɹˈeɪt ɹᵻspˈɛkt fɔːɹ ˈɔːl maɪ plˈeɪɚz.
+../data/DUMMY2/p304/p304_284.wav|72|hiː kˈɔːld fɚɹə pˈʌblɪk ˈɪŋkwɚɹi.
+../data/DUMMY2/p347/p347_362.wav|46|ænd wɪɹ tˈɔːkɪŋ bˈɪɡ mˈʌni.
+../data/DUMMY2/p347/p347_229.wav|46|ɪɾ ɪz tˈaɪm fɚɹə mˈoːɹ ˈɑːnɪst ɐpɹˈoʊtʃ.
+../data/DUMMY2/p347/p347_298.wav|46|aɪ nˈoʊ juː wɛnt bˈæk ðɪs mˈɔːɹnɪŋ.
+../data/DUMMY2/p347/p347_219.wav|46|tˈuː ænd ɐ hˈæf mˈɪliən pˈiːpəl hæv dˈaɪd.
+../data/DUMMY2/p347/p347_396.wav|46|kəmplˈiːʃən ɪz ɛkspˈɛktᵻd baɪ ɑːktˈoʊbɚ ðə fˈɑːloʊɪŋ jˈɪɹ.
+../data/DUMMY2/p347/p347_152.wav|46|pjˈuːpəlz wɜːɹ ɐlˈaʊd hˈoʊm æt lˈʌntʃtaɪm.
+../data/DUMMY2/p347/p347_180.wav|46|sˈædəm hˈʌsiːn hɐz mˌeɪd ðə kˈeɪs ɐɡˈɛnst hɪmsˈɛlf.
+../data/DUMMY2/p347/p347_269.wav|46|hˌaʊ mˈʌtʃ əvə kˈɑːp ˈaʊt ɪz ðˈæt?
+../data/DUMMY2/p347/p347_309.wav|46|ʃˈʊɹli ɪt kæn dˈuː bˈɛɾɚ ðɐn ðˈæt?
+../data/DUMMY2/p347/p347_128.wav|46|ɐ jˈʌŋ bɹˈɪtən hæd ɐ lˈʌki ɛskˈeɪp.
+../data/DUMMY2/p250/p250_161.wav|24|lˈaɪf ɪz stˈɪl vˈɛɹi tˈʌf fɔːɹ ðˌɛm.
+../data/DUMMY2/p250/p250_037.wav|24|ɹˈʌɡbi hɐz ɐn ɛkstˈɛndᵻd ɹˈʌn.
+../data/DUMMY2/p250/p250_438.wav|24|nˈæʃənəl fˈɑːɹmɚz jˈuːniən ʌv skˈɑːtlənd pɹˈɛzɪdənt, dʒˈɪm wˈɔːkɚ, wˈɛlkʌmd ðə nˈuː pɹəpˈoʊzəlz.
+../data/DUMMY2/p250/p250_267.wav|24|wiːvhˌæd sˈɛvɹəl pɹˈɑːbləmz ˌoʊvɚɹ ˈɪndʒɚɹiz.
+../data/DUMMY2/p250/p250_457.wav|24|aɪ θˈɪŋk ðə ɡˈoʊlkiːpɚ ʃˌʊdəv ɡˈɔn.
+../data/DUMMY2/p250/p250_268.wav|24|ðæt wʌzɐ dɪsɡɹˈeɪsfəl pɚfˈoːɹməns.
+../data/DUMMY2/p250/p250_191.wav|24|ˌaʊɚ fˈænz hɐvbɪn mˈɑːɹvələs.
+../data/DUMMY2/p250/p250_440.wav|24|ðɪs ɪz ɐ ɡˈʊd dˈeɪ fɔːɹ skˈɑːɾɪʃ fˈɑːɹmɪŋ.
+../data/DUMMY2/p250/p250_386.wav|24|ɪz ɪt wˈɜːθ ɪt ?
+../data/DUMMY2/p250/p250_281.wav|24|ðɛɹ pɹɪskɹˈɪpʃən ɪz lˈɑːɹdʒli ɐbˌaʊt tʃˈeɪndʒɪŋ ˈæɾɪtˌuːdz.
+../data/DUMMY2/p303/p303_122.wav|44|aɪv ɡɑːt nˈoʊ sˈiːkɹᵻt.
+../data/DUMMY2/p303/p303_286.wav|44|wiː hɐvbɪn tɹˈiːɾᵻd wɪð kəmplˈiːt kəntˈɛmpt.
+../data/DUMMY2/p303/p303_101.wav|44|ðɪ ᵻlˈɛkʃən ɪz tˈoʊɾəl kənfjˈuːʒən ænd kˈeɪɑːs.
+../data/DUMMY2/p303/p303_054.wav|44|juːv ɡɑːt tə hæv ˈɛvɹɪθˌɪŋ ɪnsˈaɪd wɪð juː.
+../data/DUMMY2/p303/p303_135.wav|44|aɪ fˈɜːst mˈɛt hˌɪm lˈæst sˈʌmɚ.
+../data/DUMMY2/p303/p303_060.wav|44|ɡˈɛɹhɑːɹt ʃɹˈoʊdɚ wʌzðə vˈɪktɚ.
+../data/DUMMY2/p303/p303_247.wav|44|wɪɹ ˌɪntʊ ðæt bˈɪldˌʌp nˈaʊ.
+../data/DUMMY2/p303/p303_023.wav|44|ɪf ðə ɹˈɛd ʌvðə sˈɛkənd bˈoʊ fˈɔːlz əpˌɑːn ðə ɡɹˈiːn ʌvðə fˈɜːst, ðə ɹɪzˈʌlt ɪz tə ɡˈɪv ɐ bˈoʊ wɪð ɐn ɐbnˈoːɹməli wˈaɪd jˈɛloʊ bˈænd, sˈɪns ɹˈɛd ænd ɡɹˈiːn lˈaɪt wɛn mˈɪkst fˈɔːɹm jˈɛloʊ.
+../data/DUMMY2/p303/p303_037.wav|44|ˈʌðɚz mˈeɪ biː tɹˈaɪɪŋ tə kˈætʃ ˈʌp.
+../data/DUMMY2/p303/p303_276.wav|44|dɹˈʌɡz ænd hˈaʊsbɹeɪkɪŋ ɑːɹ lˈɪŋkt.
+../data/DUMMY2/p345/p345_247.wav|82|nˈoʊ ˈɪndʒɚɹiz wɜː ɹᵻpˈoːɹɾᵻd.
+../data/DUMMY2/p345/p345_366.wav|82|aɪ sˈɛd æt ðə tˈaɪm ɪt wʌz ɹˈɔŋ.
+../data/DUMMY2/p345/p345_081.wav|82|ɪt wʌz ðæt kˈaɪnd ʌv ˌæftɚnˈuːn.
+../data/DUMMY2/p345/p345_139.wav|82|ðeɪ wɜː pˈɑːɹt ʌv ˌaʊɚɹ ˈoʊn fˈæmɪli.
+../data/DUMMY2/p345/p345_122.wav|82|wiː wˈɔntᵻd ɪt lˈɛft fɚɹə wˈiː wˈaɪl.
+../data/DUMMY2/p345/p345_063.wav|82|ðə slˈiːpɚ wʌz sˈɪks ˈaʊɚz lˈeɪt.
+../data/DUMMY2/p345/p345_279.wav|82|ðə hˈoʊl θˈɪŋ hɐzbɪn ɐ fæntˈæstɪk ɛkspˈiəɹɪəns.
+../data/DUMMY2/p345/p345_197.wav|82|ðɛɹ ɪz nˈoʊ wˈeɪ tə dˈuː ðˈɪs.
+../data/DUMMY2/p345/p345_298.wav|82|ðɪs kʊd pɹˈuːv ɐ pɹˈɑːbləm.
+../data/DUMMY2/p345/p345_353.wav|82|ɪt wʌzɐ vˈɛɹi bˈɪɡ wˈɪn fɔːɹ ˌʌs.
+../data/DUMMY2/p256/p256_288.wav|90|hiː wʌz ˈɑːbviəsli vˈɛɹi dʒˈɛnjuːɪn.
+../data/DUMMY2/p256/p256_316.wav|90|ðɛɹ ɪz nˈoʊ ˈʌðɚ səlˈuːʃən tə kəndʒˈɛstʃən ɪn ˈɛdɪnbʌɹə.
+../data/DUMMY2/p256/p256_001.wav|90|plˈiːz kˈɔːl stˈɛlə.
+../data/DUMMY2/p256/p256_080.wav|90|ɪɾ ɪz ɐ tˈɛɹᵻbəl plˈeɪs.
+../data/DUMMY2/p256/p256_209.wav|90|bˌʌt aɪɐm ɐ wˈʌɹid mˈæn.
+../data/DUMMY2/p256/p256_005.wav|90|ʃiː kæn skˈuːp ðiːz θˈɪŋz ˌɪntʊ θɹˈiː ɹˈɛd bˈæɡz, ænd wiː wɪl ɡˌoʊ mˈiːt hɜː wˈɛnzdeɪ æt ðə tɹˈeɪn stˈeɪʃən.
+../data/DUMMY2/p256/p256_144.wav|90|ɪt tʃˈeɪndʒd maɪ lˈaɪf.
+../data/DUMMY2/p256/p256_197.wav|90|aɪ wˈɔntᵻd tə pˌʊt maɪsˈɛlf ɔnðə lˈaɪn.
+../data/DUMMY2/p256/p256_097.wav|90|ðeɪv ɡɑːt tʊ ɐkˈaʊnt fɔːɹ ɪt.
+../data/DUMMY2/p256/p256_112.wav|90|ðeɪ wɪl wˈɔnt tə pɚfˈɔːɹm wˈɛl.
+../data/DUMMY2/p271/p271_102.wav|27|aɪ sˈɔː ðə hˈoʊl θˈɪŋ.
+../data/DUMMY2/p271/p271_304.wav|27|ˈeɪt nˈuː hˈɑːspɪɾəlz ɑːɹ sˈɛt təbi bˈɪlt.
+../data/DUMMY2/p271/p271_096.wav|27|ðˈɪswˌʌn dˈɪd.
+../data/DUMMY2/p271/p271_377.wav|27|ðə kˈæbᵻnət ɪz splˈɪt ˌoʊvɚ ðɪ ˈɪʃuː.
+../data/DUMMY2/p271/p271_142.wav|27|sˈʌdənli, ðə fˈɜː pˈɑːɹk sˈaɪd wɜːɹ ɪn dˌɪsɚɹˈeɪ.
+../data/DUMMY2/p271/p271_161.wav|27|ðæt ɪŋklˈuːdz ðɪ ɪkwˈɪpmənt?
+../data/DUMMY2/p271/p271_303.wav|27|ðeɪ ɑːɹ ɹˈɔŋ.
+../data/DUMMY2/p271/p271_133.wav|27|pəlˈiːs kʊd nˌɑːt sˈeɪ ɪf ðə tˈuː ˈɪnsɪdənts wɜː kənˈɛktᵻd.
+../data/DUMMY2/p271/p271_207.wav|27|aɪ wʊd θˈɪŋk ɐbˌaʊt ðɪ ˈɛnd ʌv dʒˈænjuːˌɛɹi, ðə bɪɡˈɪnɪŋ ʌv fˈɛbɹuːˌɛɹi.
+../data/DUMMY2/p271/p271_189.wav|27|ænd ʃiː ɪz ɐ səksˈɛsfəl ˈæktɚ wɪð θɹˈiː dˈɛkeɪdz ʌv ɛkspˈiəɹɪəns.
+../data/DUMMY2/p281/p281_037.wav|36|ɪt kˈæɹid ɐ dˈʌbəl mˈɛsɪdʒ.
+../data/DUMMY2/p281/p281_355.wav|36|hiː dɪzˈɜːvz ɐ tˈɑːp tˈiːm.
+../data/DUMMY2/p281/p281_313.wav|36|ðə pˈɑːɹɾi lˈæstᵻd ˈɔːl nˈaɪt.
+../data/DUMMY2/p281/p281_337.wav|36|dˈʌz ðæt pˌʊt pɹˈɛʃɚɹ ˈɔn ˌʌs ?
+../data/DUMMY2/p281/p281_289.wav|36|ɪt hɐz ðə pətˈɛnʃəl təbi ɐnˈʌðɚ nˈɔːɹθ sˈiː.
+../data/DUMMY2/p281/p281_386.wav|36|ɪn fˈækt, hiː wʌz ɡɹˈeɪt tədˈeɪ.
+../data/DUMMY2/p281/p281_060.wav|36|ʌntˈɪl ɹˈiːsəntli, ʃiː wˈɜːkt æz ɐ ɹᵻkɹˈuːtmənt kənsˈʌltənt ɪn lˈʌndən.
+../data/DUMMY2/p281/p281_064.wav|36|tʃˈɑːɹlz kˈɛnədi hæd ɐn ɪfˈɛktɪv ˈaʊɾɪŋ.
+../data/DUMMY2/p281/p281_434.wav|36|wiː mˌaɪt biː bˈæk nˈɛkst jˈɪɹ.
+../data/DUMMY2/p281/p281_134.wav|36|aɪ nˈɛvɚ wˈɔntᵻd ɐ lˈiːɡəl bˈæɾəl.
+../data/DUMMY2/p374/p374_391.wav|11|ðə hoʊtˈɛl wʌz hjˈuːdʒ.
+../data/DUMMY2/p374/p374_408.wav|11|ðæt wʌz nˈɛvɚ ðɛɹ ɐdʒˈɛndə.
+../data/DUMMY2/p374/p374_192.wav|11|juː ɛŋkˈɜːɹɪdʒ ðˌɛm juː kæn dˈuː ɪt.
+../data/DUMMY2/p374/p374_044.wav|11|dˈʌz ðæt pˌʊt pɹˈɛʃɚɹ ˈɔn ˌʌs?
+../data/DUMMY2/p374/p374_132.wav|11|ɪt hɐdbɪn ɪn plˈeɪs sˈɪns lˈæst dʒuːlˈaɪ.
+../data/DUMMY2/p374/p374_136.wav|11|dˈʌz ɪt mˌeɪk ɐ pɹˈɑːfɪt?
+../data/DUMMY2/p374/p374_240.wav|11|hiːz vˈɛɹi, vˈɛɹi lˈʌki təbi ɐlˈaɪv.
+../data/DUMMY2/p374/p374_227.wav|11|hiː ɪz dˌuːɪŋ dʒˈʌst ðˈæt.
+../data/DUMMY2/p374/p374_233.wav|11|wiː ɑːɹ vˈɛɹi hˈæpi wɪððə vˈɜːdɪkt.
+../data/DUMMY2/p374/p374_104.wav|11|sˈædli, ɪt tˈʊk ɐ tɹˈædʒədi tə tʃˈeɪndʒ θˈɪŋz.
+../data/DUMMY2/p229/p229_261.wav|67|aɪ wʌz hˈæpɪli sɚpɹˈaɪzd.
+../data/DUMMY2/p229/p229_029.wav|67|aɪ hæv ɐ θˈiəɹi.
+../data/DUMMY2/p229/p229_339.wav|67|ɡˈeɪlɪk pɹəvˈɪʒəŋ kəntˈɪnjuːd təbi ɡˈʊd.
+../data/DUMMY2/p229/p229_087.wav|67|ˈʌðɚz wɜːɹ ɪn hˈaɪdɪŋ, ɪn fˈɪɹ ʌv ðɛɹ lˈaɪvz.
+../data/DUMMY2/p229/p229_247.wav|67|ðə pɚsˈɛpʃən ɪz ðæt wiː duːnˌɑːt kˈɛɹ ɐbˌaʊt sˈoʊʃəl ˈɪʃuːz.
+../data/DUMMY2/p229/p229_161.wav|67|wiː ˈɔːlsoʊ ɛndʒˈɔɪd ɐ lˈɑːt ʌv səpˈoːɹt.
+../data/DUMMY2/p229/p229_050.wav|67|wiː nˈiːd tə tʃˈæt.
+../data/DUMMY2/p229/p229_180.wav|67|ðə pˈoʊst wɪl biː ʌnpˈeɪd.
+../data/DUMMY2/p229/p229_092.wav|67|ɪɾ ɪz ɐn ˈoʊld fˈæmɪli hˈæbɪt.
+../data/DUMMY2/p229/p229_244.wav|67|ɔnðə ɡɹˈaʊnd, ðə wˈɛst bˈæŋk wʌz ɐɡˈɛn ðə fˈoʊkəs ʌv vˈaɪələns.
+../data/DUMMY2/p284/p284_119.wav|16|ɪɾ ɪz ɹˈʌbɪʃ.
+../data/DUMMY2/p284/p284_385.wav|16|sˈʌmθɪŋ ɪz ɹˈɔŋ.
+../data/DUMMY2/p284/p284_168.wav|16|wˈʌn sˈiːzən, ðeɪ mˌaɪt dˈuː wˈɛl.
+../data/DUMMY2/p284/p284_046.wav|16|ɪɾ ɪz mˈɑːɹvələs.
+../data/DUMMY2/p284/p284_399.wav|16|aɪ lˈʌv ðə θˈɔːt ʌv hˌævɪŋ ɐ kɹˈæk æt dᵻfˈɛndɪŋ ðə tˈaɪɾəl.
+../data/DUMMY2/p284/p284_312.wav|16|ðə lˈɛɾɚz ɑːɹ ɡˌoʊɪŋ ˈaʊt tədˈeɪ.
+../data/DUMMY2/p284/p284_002.wav|16|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.
+../data/DUMMY2/p284/p284_038.wav|16|ˈʌðɚ mˈɛmbɚz ʌvðə fˈæmɪli wɜː tˈuː ʌpsˈɛt tə kˈɑːmɛnt lˈæst nˈaɪt.
+../data/DUMMY2/p284/p284_235.wav|16|ˌaʊɚ pˈɑːlɪsi ɪz klˈɪɹ.
+../data/DUMMY2/p284/p284_112.wav|16|aɪ wʌz fˈaɪɾɪŋ fɔːɹ maɪ lˈaɪf, aɪ θˈɔːt.
+../data/DUMMY2/p313/p313_091.wav|76|ɪts ɐ vˈɛɹi, vˈɛɹi spˈɛʃəl dˈeɪ.
+../data/DUMMY2/p313/p313_206.wav|76|ɐ kəntɹˈæktɚ wʌz dˈuː təbi ɐpˈɔɪntᵻd jˈɛstɚdˌeɪ.
+../data/DUMMY2/p313/p313_051.wav|76|ðɛɹ kəndˈɪʃənz ɑːɹ dᵻskɹˈaɪbd æz sˈɪɹiəs bˌʌt stˈeɪbəl.
+../data/DUMMY2/p313/p313_301.wav|76|ðeɪ wɜː ɡˌoʊɪŋ θɹuː ðə mˈoʊʃənz, bˌʌt ðæts ɐbˌaʊt ˈɔːl.
+../data/DUMMY2/p313/p313_177.wav|76|pɚhˈæps ɪɾ ɪz dʒˈɛləsi.
+../data/DUMMY2/p313/p313_188.wav|76|hɪz mˈænɪdʒɚ blˈeɪmd ðə ɹˌɛfɚɹˈiː.
+../data/DUMMY2/p313/p313_402.wav|76|ðɪs fˈaɪt ɪz nˌɑːt ɡˌoʊɪŋ tə ɡˌoʊ ɐwˈeɪ.
+../data/DUMMY2/p313/p313_284.wav|76|ɪts fˈʌni hˌaʊ ɪt kˈʌmz ænd ɡˈoʊz.
+../data/DUMMY2/p313/p313_268.wav|76|ðeɪ dʒˈʌst θˈɔːt ɪt wʌz ɛkstɹˈiːmli ɡˈʊd ˈæktɪŋ.
+../data/DUMMY2/p313/p313_106.wav|76|haʊˈɛvɚ, hiː ˈædᵻd ðɛɹwˌɜː sˈaɪnz ʌv pɹˈɑːɡɹɛs.
+../data/DUMMY2/p280/p280_288.wav|52|nˈoʊwˈʌn hæd sˈiːn ðɪs sˈɔːɹt ʌv θˈɪŋ bᵻfˈoːɹ.
+../data/DUMMY2/p280/p280_028.wav|52|ðə wˈɛst kˈoʊst lˈaɪn ɪz nˌɑːt dʒˈʌst fɔːɹ mˈɪdəl ˈɪŋɡlənd.
+../data/DUMMY2/p280/p280_168.wav|52|aɪ nˈuː ðæt aɪ nˈiːdᵻd tə lˈoʊɚ maɪ bˈɔːl flˈaɪt.
+../data/DUMMY2/p280/p280_176.wav|52|fˈaɪnəli, wiː dᵻsˈaɪdᵻd tə pˌʊt ðə hˈoʊl spˈiːtʃ ˈɪn.
+../data/DUMMY2/p280/p280_367.wav|52|ðə dˈɛd wˈʊmən ænd ðɪ ˈɪndʒɚd mˈæn hɐvnˌɑːt jˈɛt bˌɪn nˈeɪmd.
+../data/DUMMY2/p280/p280_186.wav|52|ɐ ɡɹˈeɪt plˈeɪɚ hɐz tə wˈɪn mˈeɪdʒɚ tʃˈæmpiənʃˌɪps.
+../data/DUMMY2/p280/p280_126.wav|52|sˌoʊ aɪɐm ɡˌoʊɪŋ ɪnðə ɹˈaɪt dᵻɹˈɛkʃən.
+../data/DUMMY2/p280/p280_105.wav|52|aɪ bˈɔːt ɐ flˈæt sˈɪks jˈɪɹz ɐɡˈoʊ.
+../data/DUMMY2/p280/p280_250.wav|52|hiː hɐz mˈɛni ˈɔfɚz fɹʌmðɪ ˈɪŋɡlɪʃ pɹəmˈɪɹʃɪp.
+../data/DUMMY2/p280/p280_065.wav|52|ˌɪndˈiːd hiː hɐz ɐ lˈɑːt ʌv ˈaʊtpʊt.
+../data/DUMMY2/p263/p263_008.wav|39|ðiːz tˈeɪk ðə ʃˈeɪp əvə lˈɔŋ ɹˈaʊnd ˈɑːɹtʃ, wɪð ɪts pˈæθ hˈaɪ əbˈʌv, ænd ɪts tˈuː ˈɛndz ɐpˈæɹəntli bᵻjˌɔnd ðə hɚɹˈaɪzən.
+../data/DUMMY2/p263/p263_071.wav|39|ɪts ˈɔːl aɪ kæn dˈuː.
+../data/DUMMY2/p263/p263_437.wav|39|wiːʃˌɐl nˌɑːt fɚɡˈɛt hˌɪm.
+../data/DUMMY2/p263/p263_351.wav|39|ˌoʊvɚɹˈɔːl, wiː ɑːɹ vˈɛɹi plˈiːzd.
+../data/DUMMY2/p263/p263_249.wav|39|hiː hɐz ɹˈʌn ɐ hˈɛl əvɚ ɹˈeɪs.
+../data/DUMMY2/p263/p263_017.wav|39|ˈʌðɚz hæv tɹˈaɪd tʊ ɛksplˈeɪn ðə fɪnˈɑːmɪnən fˈɪzɪkli.
+../data/DUMMY2/p263/p263_139.wav|39|ðə skwˈɑːd ɪz tˈuː smˈɔːl.
+../data/DUMMY2/p263/p263_019.wav|39|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+../data/DUMMY2/p263/p263_311.wav|39|mˈʌðɚwˌɛl hæv nˈoʊ sˈʌtʃ ɡˈʊd fˈɔːɹtʃʊn.
+../data/DUMMY2/p263/p263_310.wav|39|haʊˈɛvɚ, ɐ ɹˈuːlɪŋ wɪl nˌɑːt kˈʌm bᵻfˌoːɹ nˈɛkst wˈiːk.
+../data/DUMMY2/p283/p283_213.wav|95|ɪt kʊd biː dˈʌn baɪ ˈɛkspɜːts ænd lˈɔɪɚz.
+../data/DUMMY2/p283/p283_148.wav|95|hiː wʌzɐ hˈoʊm ɹˌɛfɚɹˈiː.
+../data/DUMMY2/p283/p283_470.wav|95|sˈɪɾi sˈɛntɪmənt ɪz ɪn hɪz fˈeɪvɚ.
+../data/DUMMY2/p283/p283_447.wav|95|sˈʌmθɪŋ hɐz ɡɑːt tə ɡˈɪv.
+../data/DUMMY2/p283/p283_375.wav|95|maɪ mˈaɪnd ɪz fˈoʊkəst ɔnðə nˈɛkst fˈoːɹ wˈiːks.
+../data/DUMMY2/p283/p283_453.wav|95|aɪ wʌz ɛmbˈæɹəst baɪ ɪt.
+../data/DUMMY2/p283/p283_023.wav|95|ɪf ðə ɹˈɛd ʌvðə sˈɛkənd bˈoʊ fˈɔːlz əpˌɑːn ðə ɡɹˈiːn ʌvðə fˈɜːst, ðə ɹɪzˈʌlt ɪz tə ɡˈɪv ɐ bˈoʊ wɪð ɐn ɐbnˈoːɹməli wˈaɪd jˈɛloʊ bˈænd, sˈɪns ɹˈɛd ænd ɡɹˈiːn lˈaɪt wɛn mˈɪkst fˈɔːɹm jˈɛloʊ.
+../data/DUMMY2/p283/p283_316.wav|95|wiː hæv təbi vˈɛɹi, vˈɛɹi kˈɛɹfəl.
+../data/DUMMY2/p283/p283_151.wav|95|ɪn ðɪs kˈeɪs, ðə fˈɑːɹmɚ hæd ˈæktʃuːəli ɡˈɪvən pɚmˈɪʃən.
+../data/DUMMY2/p283/p283_018.wav|95|ˈæɹɪstˌɑːɾəl θˈɔːt ðætðə ɹˈeɪnboʊ wʌz kˈɔːzd baɪ ɹᵻflˈɛkʃən ʌvðə sˈʌnz ɹˈeɪz baɪ ðə ɹˈeɪn.
+../data/DUMMY2/p227/p227_032.wav|29|ðˈɛɹ, juː wɜː dʒˈʌst ɐ bˈɑːdi.
+../data/DUMMY2/p227/p227_240.wav|29|wiː plˈeɪd ðˌɛm ˈɔf ðə pˈɪtʃ.
+../data/DUMMY2/p227/p227_160.wav|29|sˈɛvən pˈiːpəl wɜː lˈeɪɾɚ dɪtˈeɪnd baɪ pəlˈiːs.
+../data/DUMMY2/p227/p227_173.wav|29|ðeɪ mˌeɪd sˈʌtʃ dᵻsˈɪʒənz ɪn lˈʌndən.
+../data/DUMMY2/p227/p227_123.wav|29|sˌoʊ wʌt ɪz ðə kæmpˈeɪn ɐbˈaʊt ?
+../data/DUMMY2/p227/p227_047.wav|29|ðə kˈæstɪŋ ʌv hɜː hˈʌsbənd wʌz ɐn ˈæksɪdənt.
+../data/DUMMY2/p227/p227_388.wav|29|ðɛɹ ɪz nˈoʊ dˈiːl æz jˈɛt.
+../data/DUMMY2/p227/p227_389.wav|29|ɪn dˈuː kˈoːɹs ðə dˈiːl wʌz dˈʌn.
+../data/DUMMY2/p227/p227_291.wav|29|ɪt wʌz ɐn ˈiːzi dᵻsˈɪʒən tə kˈʌm hˈɪɹ.
+../data/DUMMY2/p227/p227_283.wav|29|ˈɛvɹi wˈʌn ɪz ɐ wˈɪnɚ.
+../data/DUMMY2/p333/p333_405.wav|64|ðeɪ hˈoʊld ˌɔn fɔːɹ mˈɛni jˈɪɹz.
+../data/DUMMY2/p333/p333_129.wav|64|hiː wʌz bˈæk tə skwˈɛɹ wˌʌn.
+../data/DUMMY2/p333/p333_396.wav|64|mˈiːnwaɪl, ðə bˈɪznəs ʌv ɡˈʌvɚnmənt ɡoʊz ˈɔn.
+../data/DUMMY2/p333/p333_021.wav|64|ðə dˈɪfɹəns ɪnðə ɹˈeɪnboʊ dᵻpˈɛndz kənsˈɪdɚɹəbli əpˌɑːn ðə sˈaɪz ʌvðə dɹˈɑːps, ænd ðə wˈɪtθ ʌvðə kˈʌlɚd bˈænd ˈɪŋkɹiːsᵻz æz ðə sˈaɪz ʌvðə dɹˈɑːps ˈɪŋkɹiːsᵻz.
+../data/DUMMY2/p333/p333_008.wav|64|ðiːz tˈeɪk ðə ʃˈeɪp əvə lˈɔŋ ɹˈaʊnd ˈɑːɹk, wɪð ɪts pˈæθ hˈaɪ əbˈʌv, ænd ɪts tˈuː ˈɛndz ɐpˈæɹəntli bᵻjˌɔnd ðə hɚɹˈaɪzən.
+../data/DUMMY2/p333/p333_291.wav|64|ɪɾ ɪz dʒˈʌst tˈuː lˈɔŋ sˈɪns ðə wˈɔːɹ.
+../data/DUMMY2/p333/p333_121.wav|64|ðɪs wʌz dɪsmˈɪst æz ˈæbsəlˌuːt nˈɑːnsəns.
+../data/DUMMY2/p333/p333_307.wav|64|ɪts maɪ fˈeɪvɹɪt plˈeɪs tə hˈæŋ ˈaʊt.
+../data/DUMMY2/p333/p333_238.wav|64|ɪts sˈʌmθɪŋ wiː wˈɔnt tə mˌeɪk wˈɜːk.
+../data/DUMMY2/p333/p333_234.wav|64|nˈoʊbɑːdi kæn tʃˈeɪndʒ ɪɾ ˌoʊvɚnˈaɪt, bˌʌt juː kæn mˌeɪk ɐ stˈɑːɹt.
+../data/DUMMY2/p287/p287_027.wav|77|mˈiːɾɪŋz wɪl ˈɔːlsoʊ ɹᵻmˈeɪn pɹˈaɪvət.
+../data/DUMMY2/p287/p287_251.wav|77|aɪ ʃˌʊd θˈɪŋk sˈoʊ, tˈuː.
+../data/DUMMY2/p287/p287_100.wav|77|juː hæd bˈɛɾɚ bᵻlˈiːv ɪt.
+../data/DUMMY2/p287/p287_066.wav|77|ðɛɹ kæn biː nˈoʊ kˈɑːmpɹəmˌaɪz ˌɔn wˈɛlfɛɹ.
+../data/DUMMY2/p287/p287_413.wav|77|aɪ ɹᵻmˈeɪn ɐ bˈaɪɚɹ ʌvðə ʃˈɛɹz.
+../data/DUMMY2/p287/p287_004.wav|77|wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz.
+../data/DUMMY2/p287/p287_154.wav|77|ðə pˈiːpəl ɑːɹ ðə hˈiəɹoʊ.
+../data/DUMMY2/p287/p287_343.wav|77|ɪnðɪ ˈoʊld dˈeɪz, ɪt wʌz ˈiːzi.
+../data/DUMMY2/p287/p287_147.wav|77|ðiːz dˈeɪz ɑːɹ lˈɔŋ ɡˈɔn.
+../data/DUMMY2/p287/p287_281.wav|77|ɪt wʊd kɹiːˈeɪt ɐ skˈɑːɾɪʃ sˈɛkɹətɹi wɪð ɐ lˈɑːt ʌv wˈeɪt.
+../data/DUMMY2/p237/p237_038.wav|61|ɪɾ ɪz nˌɑːt fɔːɹ ˌɛni ˈʌðɚ pˈɜːpəs.
+../data/DUMMY2/p237/p237_190.wav|61|ðeɪ ɹᵻsˈiːv ɐ hˈaɪ pɹˈoʊfaɪl ɪnðə mˈiːdiːə.
+../data/DUMMY2/p237/p237_187.wav|61|aɪ hæv ðə fˈɜːst sˈɪks mˈʌnθs ʌv nˈɛkst sˈiːzən tə pɹˈuːv maɪsˈɛlf.
+../data/DUMMY2/p237/p237_351.wav|61|ɪt ʃˌʊd biː skɹˈæpt.
+../data/DUMMY2/p237/p237_300.wav|61|ɪt ʃˈoʊz ɐ kəntˈɛmpt baɪ hˌɪm fɚðɪ ˈɪndʌstɹi.
+../data/DUMMY2/p237/p237_240.wav|61|juː tˈeɪk ɐ ɹˈɪsk.
+../data/DUMMY2/p237/p237_200.wav|61|ɪɾ ɪz ɐ kˈeɪs ʌv tˈeɪkɪŋ ɐ ɹˈɪsk.
+../data/DUMMY2/p237/p237_029.wav|61|ðɪ ɐpˈiːl tɹaɪbjˈuːnəl wɪl ɡˈɪv ɪts dᵻsˈɪʒən æɾə lˈeɪɾɚ dˈeɪt.
+../data/DUMMY2/p237/p237_078.wav|61|ɪɾ ɪz ɐ tˈɛɹᵻbəl plˈeɪs.
+../data/DUMMY2/p237/p237_189.wav|61|fˈoːɹ pəlˈiːsmɛn wɜː wˈuːndᵻd.
+../data/DUMMY2/p248/p248_121.wav|99|ʃiːz ɡɑːt tə sˈeɪ sˈʌmθɪŋ.
+../data/DUMMY2/p248/p248_150.wav|99|ɪts ɐn ˈɪʃuː ðæt wɪl hæv təbi tˈækəld.
+../data/DUMMY2/p248/p248_268.wav|99|aɪɐm tˈoʊɾəli hˈɔːɹɪfˌaɪd baɪ ðə sˈɛntəns.
+../data/DUMMY2/p248/p248_084.wav|99|wiː hæv ˈʌðɚɹ ˈɑːpʃənz.
+../data/DUMMY2/p248/p248_139.wav|99|ɪt wʌz tˈɪpɪkəl.
+../data/DUMMY2/p248/p248_290.wav|99|ˌaɪtˈiː ˈɛs ˈɔːl ɪnðə hˈɛɹ.
+../data/DUMMY2/p248/p248_083.wav|99|nˈuː zˈiːlənd ɹˈʌɡbi ɪz tˈoʊɾəli dˈɪfɹənt.
+../data/DUMMY2/p248/p248_179.wav|99|tˈoʊni hæd ɚɹˈaɪvd.
+../data/DUMMY2/p248/p248_168.wav|99|baɪ ðˈɛn, haʊˈɛvɚ, bˈoʊθ mˈɛn wɜːɹ ɔːlɹˌɛdi ɪnðə jˌuːˈɛs.
+../data/DUMMY2/p248/p248_159.wav|99|ɐ lˈeɪbɚɹ ɪnsˈaɪdɚ sˈɛd ɪt wʌz fˈɑːɹ tˈuː klˈoʊs tə kˈɔːl.
+../data/DUMMY2/p295/p295_293.wav|92|maɪ hˈʌsbənd wʌz ˈæŋɡɹi.
+../data/DUMMY2/p295/p295_222.wav|92|maɪ lˈaɪf hɐzbɪn tˈɜːnd ˈʌpsaɪd dˈaʊn.
+../data/DUMMY2/p295/p295_027.wav|92|haʊˈɛvɚ, ðə fˈɑːloʊɪŋ jˈɪɹ ðə kˈænsɚ ɹᵻtˈɜːnd.
+../data/DUMMY2/p295/p295_340.wav|92|ɪts lˈaɪk ɐ ɡɚɹˈɑːʒ.
+../data/DUMMY2/p295/p295_172.wav|92|jʊɹ nˌɑːt ɡˌoʊɪŋ tə fɚɡˈɛt sˈʌmθɪŋ lˈaɪk ðˈæt.
+../data/DUMMY2/p295/p295_210.wav|92|ænd wʌt ɪz ʃiː ɛskˈeɪpɪŋ fɹʌm?
+../data/DUMMY2/p295/p295_391.wav|92|ˌaʊɚ pəzˈɪʃən ɪz nˌɑːɾə lˈɑːdʒɪk ʌv wˈɔːɹ.
+../data/DUMMY2/p295/p295_087.wav|92|aɪ dˈoʊnt ɛntˈaɪɚli bˈaɪ ðˈæt.
+../data/DUMMY2/p295/p295_290.wav|92|tʃˈɑːɹdʒᵻz ɐɡˈɛnst ðə pˈɛɹ wɜː fˈaʊnd nˌɑːt pɹˈuːvən.
+../data/DUMMY2/p295/p295_278.wav|92|hˈoʊpfəli, ɪt wɪl kˈʌm fɹʌm sˈʌmwʌn ˌɔn ˌaʊɚ sˈaɪd.
+../data/DUMMY2/p278/p278_351.wav|10|ænd ɪt wʌz ðˈɪswˌʌn.
+../data/DUMMY2/p278/p278_362.wav|10|ɪɾ ɪntˈɛndz tə dˈuː sˌoʊ ˌɔn wˈɛnzdeɪ.
+../data/DUMMY2/p278/p278_123.wav|10|haʊˈɛvɚ, ðə pɹˈɑːbləm ɪz ðə tˈaɪmɪŋ.
+../data/DUMMY2/p278/p278_153.wav|10|ɪts lˈɔs wʌz ɐn ˌiːkənˈɑːmɪk kɐtˈæstɹəfi fɚðə hˈoʊl ʌv mˈɔːɹeɪ.
+../data/DUMMY2/p278/p278_259.wav|10|juː kæn fˈiːl æt hˈoʊm ɪn tʃˈaɪnə.
+../data/DUMMY2/p278/p278_082.wav|10|hiː sˈɛd ɐ tʃˈeɪndʒ ɪn lˌɛdʒɪslˈeɪʃən wʌz lˈɔŋ ˌoʊvɚdˈuː.
+../data/DUMMY2/p278/p278_317.wav|10|hˈɑːlənd wˈʌn baɪ fˈaɪv wˈɪkɪts.
+../data/DUMMY2/p278/p278_182.wav|10|ðɪ ˈaʊtkʌm ɪz nˈaʊ ɪn ˌaʊɚɹ ˈoʊn hˈændz.
+../data/DUMMY2/p278/p278_173.wav|10|wˌʌt hˈæpənd ɪn ðæt ɡˈeɪm ?
+../data/DUMMY2/p278/p278_132.wav|10|kˈʌstəmɚz fɚðə pˈænəlz ɪŋklˈuːd ðə nˈæʃənəl tɹˈʌst fɔːɹ skˈɑːtlənd.
+../data/DUMMY2/p231/p231_464.wav|50|dɹˈaɪvɪŋ hɐzbɪn ðə kˈiː.
+../data/DUMMY2/p231/p231_457.wav|50|wiː θˈɪŋk ɐ lˈɑːt ʌv ˈælən mə ɡɹˈɛɡɚ.
+../data/DUMMY2/p231/p231_194.wav|50|ðɪs ʃˌʊd pˌʊt dˈaʊnwɚd pɹˈɛʃɚɹ ˌɔn ɪnflˈeɪʃən.
+../data/DUMMY2/p231/p231_032.wav|50|ɪf wiː kænˈɑːt səksˈiːd ɪn ðɪs ɛndˈɛvɚ, ðˈɛn sˈoʊ biː ɪt.
+../data/DUMMY2/p231/p231_163.wav|50|wˌʌt dˈuː wiː wˈɔnt tə dˈuː ðˈæt fɔːɹ ?
+../data/DUMMY2/p231/p231_370.wav|50|ðɪs ɪz ɐ mˈeɪdʒɚ tʃˈæmpiənʃˌɪp.
+../data/DUMMY2/p231/p231_121.wav|50|aɪ wʌz dʒˈʌst ɐ tʃˈaɪld.
+../data/DUMMY2/p231/p231_249.wav|50|ðɪs ɹˈuːlɪŋ ɪz ɐ fˈɑːɹs.
+../data/DUMMY2/p231/p231_310.wav|50|mək nˈɔːtən wʌz nˌɑːt sˌoʊ ʃˈʊɹ.
+../data/DUMMY2/p231/p231_034.wav|50|ðæt mˈiːnz ɐn ˈɛkstɹə tˈuː jˈɪɹz.
+../data/DUMMY2/p244/p244_373.wav|78|sˌʌm ʌvðə pˈæsɪŋ wʌzɐ dɪsɡɹˈeɪs.
+../data/DUMMY2/p244/p244_343.wav|78|sˈʌmθɪŋ ɪz ɡˌoʊɪŋ tə hæv tə ɡˈɪv.
+../data/DUMMY2/p244/p244_013.wav|78|sˌʌm hæv ɐksˈɛptᵻd ɪɾ æz ɐ mˈɪɹəkəl wɪðˌaʊt fˈɪzɪkəl ɛksplɐnˈeɪʃən.
+../data/DUMMY2/p244/p244_390.wav|78|hiː wʌz ˌɔn ɐ mˈɪʃən.
+../data/DUMMY2/p244/p244_056.wav|78|ɪt hɐzbɪn ɐ hˈɔːɹɪbəl, hˈɔːɹɪbəl tˈaɪm.
+../data/DUMMY2/p244/p244_316.wav|78|ɪɾ ɪnvˈɑːlvd ðə sˈeɪm pˈiːpəl.
+../data/DUMMY2/p244/p244_243.wav|78|ðə mˈæɾɚɹ ɪz ˌʌndɚɹ ɐpˈiːl.
+../data/DUMMY2/p244/p244_163.wav|78|nˌɑːt ðætðɪ əkˈeɪʒən wʌz wɪðˌaʊt ɹᵻstɹˈeɪnt.
+../data/DUMMY2/p244/p244_216.wav|78|haʊˈɛvɚ, mˈɜːɹeɪ dʒˈɑːnstoʊn ɪz nˌɑːt ɔnðə mˈɛnjuː.
+../data/DUMMY2/p244/p244_262.wav|78|sˈoʊ fˌɑːɹ, ðə pɹˈɑːbləmz hæv əkˈɜːd ɪnðə jˌuːˈɛs.
+../data/DUMMY2/p301/p301_049.wav|91|lˈɔːɹd sˈeɪnzbɛɹi ɪz nˌɑːɾə nˈuːkʌmɚ.
+../data/DUMMY2/p301/p301_234.wav|91|hˈoʊpfəli, ɪt wɪl pˈeɪ ˈɔf fɔːɹ mˌiː.
+../data/DUMMY2/p301/p301_389.wav|91|ðə wˈɛlθ ʌv tˈælənt ɪn ɔːstɹˈeɪliə ɪz ˈɔːsʌm.
+../data/DUMMY2/p301/p301_388.wav|91|ðeɪ ɪŋklˈuːdᵻd sˈɜːʔn̩ ɪnʃˈʊɹɹəns pˈɑːlɪsiz, ænd hɪz ʃˈɛɹ ʌvðə hˈaʊs.
+../data/DUMMY2/p301/p301_121.wav|91|ðə wˈeɪ ðeɪ plˈeɪ, ɪɾ ɪz hˈɑːɹd tə skˈoːɹ ɐɡˈɛnst ðˌɛm.
+../data/DUMMY2/p301/p301_233.wav|91|ɪts wˈɜːkfoːɹs ɪz təbi mˌeɪd ɹᵻdˈʌndənt.
+../data/DUMMY2/p301/p301_238.wav|91|wiː wˈɔntᵻd ɪt lˈɛft fɚɹə wˈiː wˈaɪl.
+../data/DUMMY2/p301/p301_254.wav|91|ðə fˈaɪnəl stˈeɪdʒ ɪz pˈæɹənˌɔɪə.
+../data/DUMMY2/p301/p301_263.wav|91|wiː ɑːɹ tɹˈaɪɪŋ tə klˈæɹᵻfˌaɪ ðɪ ˈɪʃuːz.
+../data/DUMMY2/p301/p301_157.wav|91|wiː dˈoʊnt dʒˈʌst plˈeɪ ɡˈɑːlf ɪn skˈɑːtlənd.
+../data/DUMMY2/p299/p299_088.wav|58|ɐ dᵻsˈɪʒən ɪz ɛkspˈɛktᵻd tədˈeɪ.
+../data/DUMMY2/p299/p299_038.wav|58|ðɪs ɪz ɐ bˈɪɡ ɐdvˈæntɪdʒ.
+../data/DUMMY2/p299/p299_165.wav|58|ðeɪ ɹᵻkˈoːɹdᵻd ðɛɹ deɪbjˈuː ˈælbəm ɪn nˈuː jˈɔːɹk.
+../data/DUMMY2/p299/p299_027.wav|58|ɪɾ ɪz ˈoʊnli wˈʌn nˈaɪt, ˈæftɚɹ ˈɔːl.
+../data/DUMMY2/p299/p299_314.wav|58|ʃiː wʌz dʒˈʌst ðæt sˈɔːɹt ʌv pˈɜːsən.
+../data/DUMMY2/p299/p299_319.wav|58|ɪt wʌz keɪˈɑːɾɪk ænd fɹˈaɪʔn̩ɪŋ.
+../data/DUMMY2/p299/p299_144.wav|58|wiː wʊd wˈɛlkʌm ɐ ɡɹˈeɪɾɚɹ ˈɛmfəsɪs ˌɔŋ kˈɑːɹkəsᵻz.
+../data/DUMMY2/p299/p299_035.wav|58|nˈaɪn ʌvðə tˈʊɹɹɪsts wɜː kˈɪld ˈɪnstəntli.
+../data/DUMMY2/p299/p299_209.wav|58|ˌɔn ðæt ðeɪ ɐɡɹˈiː.
+../data/DUMMY2/p299/p299_036.wav|58|hiː wʌz ɚɹˈɛstᵻd, bˌʌt lˈeɪɾɚ ɹᵻlˈiːst wɪðˌaʊt tʃˈɑːɹdʒ.
+../data/DUMMY2/p261/p261_318.wav|100|hiː wʌz ˈɑːbviəsli vˈɛɹi dʒˈɛnjuːɪn.
+../data/DUMMY2/p261/p261_248.wav|100|ɪɾ ɪz nˌɑːt ɐn ˈɑːpʃən, bˌʌt ɐ pˈɑːlɪsi ɹᵻkwˈaɪɚmənt.
+../data/DUMMY2/p261/p261_106.wav|100|wˌʌt kˈaɪnd ʌv mˈæn dˈʌz ðˈæt, mˈɪstɚ dˈɪk ?
+../data/DUMMY2/p261/p261_083.wav|100|ðeɪ lˈɪvd fɔːɹ ðɛɹ tʃˈɪldɹən.
+../data/DUMMY2/p261/p261_374.wav|100|ɪz ɪt wˈɜːθ ɪt ?
+../data/DUMMY2/p261/p261_338.wav|100|bˈoʊθ sˈaɪdz hɐvbɪn hˈɪt baɪ ˈɪndʒɚɹi.
+../data/DUMMY2/p261/p261_031.wav|100|aɪ hæv nˈɛvɚ bˌɪn ɐ mˈɛmbɚɹ ʌvðə kˈaʊnsəl.
+../data/DUMMY2/p261/p261_219.wav|100|ðeɪ hæv nˈoʊn ðə hˈɑːɹd tˈaɪmz.
+../data/DUMMY2/p261/p261_119.wav|100|stɹˈʌktʃɚɹəl tʃˈeɪndʒᵻz wɜːɹ ˈɔːlsoʊ ɹᵻkwˈaɪɚd.
+../data/DUMMY2/p261/p261_224.wav|100|ˌaɪtˈiː ˈɛs ˈɔːl tʃˈeɪndʒ æt kɪlmˈɑːɹnɑːk.
+../data/DUMMY2/p266/p266_094.wav|20|aɪ lˈʌv ðə dˈoʊm.
+../data/DUMMY2/p266/p266_003.wav|20|sˈɪks spˈuːnz ʌv fɹˈɛʃ snˈoʊ pˈiːz, fˈaɪv θˈɪk slˈæbz ʌv blˈuː tʃˈiːz, ænd mˈeɪbiː ɐ snˈæk fɔːɹ hɜː bɹˈʌðɚ bˈɑːb.
+../data/DUMMY2/p266/p266_348.wav|20|tˈɛl ˌʌs ɐbˈaʊt ɪt.
+../data/DUMMY2/p266/p266_396.wav|20|ɪt wʌzɐ bɹˈɛθteɪkɪŋ mˈoʊmənt.
+../data/DUMMY2/p266/p266_354.wav|20|bˈoʊθ ʌv ðoʊz pɹˈɑːmɪsᵻz hæv ɔːlɹˌɛdi bˌɪn ˈɑːnɚd.
+../data/DUMMY2/p266/p266_288.wav|20|ʃiː ɪz ɐn ˈɛkspɜːt ˌɔn mˈɛdɪkəl ˈɛθɪks.
+../data/DUMMY2/p266/p266_154.wav|20|ðeɪ hɐvnˌɑːt bˌɪn nˈeɪmd.
+../data/DUMMY2/p266/p266_205.wav|20|ɪt hæd ˈɔːl bˌɪn ɚɹˈeɪndʒd.
+../data/DUMMY2/p266/p266_161.wav|20|wʌz ðɪs ˈɛlɪmənt ˈɔːlweɪz ðˈɛɹ?
+../data/DUMMY2/p266/p266_290.wav|20|hˌuː dˈɪd ðə ɹᵻkɹˈuːɾɪŋ?
+../data/DUMMY2/p270/p270_434.wav|8|ðə bɹˈɪɾɪʃ ɡˈʌvɚnmənt dʌznˌɑːt wˈɔnt tə nˈoʊ.
+../data/DUMMY2/p270/p270_399.wav|8|pˈɛtɹəl pɹˈaɪsᵻz wɜː wˈaɪdli blˈeɪmd.
+../data/DUMMY2/p270/p270_034.wav|8|ʌv kˈoːɹs, ˌɔn tˈuːzdeɪ, juːnˈaɪɾᵻd wɜː bˈiːʔn̩ dᵻspˈaɪt ðˈɪs.
+../data/DUMMY2/p270/p270_114.wav|8|ðə sˌɪtʃuːˈeɪʃən ɪz nˌɑːt ˈiːzi, bˌʌt wiː wɪl pɹɪvˈeɪl.
+../data/DUMMY2/p270/p270_045.wav|8|ðæt wʌzðə θˈiəɹi, ˈɛnɪwˌeɪ.
+../data/DUMMY2/p270/p270_274.wav|8|ɔːɹ wʌz ˈɪt ?
+../data/DUMMY2/p270/p270_038.wav|8|ðə stˈæf ɑːɹ æz ɡˈʊd æz ˌɛni stˈæf ɪnðə sˈɪɾi.
+../data/DUMMY2/p270/p270_104.wav|8|aɪm dᵻlˈaɪɾᵻd fɔːɹ ˈɛvɹɪwˌʌn æt stˈɜːlɪŋ.
+../data/DUMMY2/p270/p270_341.wav|8|ðɛɹwˌʌz sˌʌm mˈɛɹɪt ɪn ðˈæt.
+../data/DUMMY2/p270/p270_082.wav|8|pˈoʊʃənz sˈɛd hiː wʊd dɹˈaɪv.
+../data/DUMMY2/p361/p361_174.wav|79|ðə kwˈɔlɪɾi ʌv lˈaɪf ɪz dˈɪfɪkəlt fɔːɹ ðˌɛm.
+../data/DUMMY2/p361/p361_277.wav|79|wiː ɑːɹ ɪn ðɪs fɚðə lˈɔŋ hˈɔːl.
+../data/DUMMY2/p361/p361_094.wav|79|ðeɪ dʒˈʌst hæv ɐ ɡˈoʊ.
+../data/DUMMY2/p361/p361_357.wav|79|wiː hæd nˈoʊ aɪdˈiə wʌt wʌz ɡˌoʊɪŋ ˈɔn.
+../data/DUMMY2/p361/p361_192.wav|79|fˈeɪlɪɹ ɪz nˌɑːt ɐn ˈɑːpʃən.
+../data/DUMMY2/p361/p361_235.wav|79|ðæt wʊd ˈɛnd ɪt fɔːɹ ˌʌs.
+../data/DUMMY2/p361/p361_052.wav|79|ɪt dˈʌzənt hæv təbi ɪn ˌɪnvɚnˈɛs.
+../data/DUMMY2/p361/p361_364.wav|79|ɪts ɡˌoʊɪŋ tə hˈæpən.
+../data/DUMMY2/p361/p361_103.wav|79|ɪt kʊd tˈeɪk sˌʌm tˈaɪm.
+../data/DUMMY2/p361/p361_051.wav|79|ðeɪ wɜː tˈeɪkən tə pɹˈuːv ɐ pˈɔɪnt.
+../data/DUMMY2/p233/p233_267.wav|84|dʒˈɔːɹdʒ dˈʌbəljˌuː bˈʊʃ, ðə jˌuːˈɛs pɹˈɛzɪdənt, kəndˈɛmd ðɪ ɐtˈæks.
+../data/DUMMY2/p233/p233_265.wav|84|ɪɾ ɪz nˌɑːt dʒˈʌst ɐbˌaʊt pˈeɪ.
+../data/DUMMY2/p233/p233_325.wav|84|lˈeɪɾɚɹ ɪnðə dˈeɪ hiː wʌz fˈoːɹst tʊ ɛksplˈeɪn hɪz pəzˈɪʃən.
+../data/DUMMY2/p233/p233_270.wav|84|ðæt ɹᵻvjˈuː wɪl lˈʊk æt mˈænɪdʒmənt əkɹˌɑːs ðə sˈɛktɚɹ æz ɐ hˈoʊl.
+../data/DUMMY2/p233/p233_065.wav|84|ˌɪndˈiːd, ɪɾ ɪz ˈoʊnli ðə bɪɡˈɪnɪŋ.
+../data/DUMMY2/p233/p233_347.wav|84|hiː hæd plˈeɪd wˈɛl ɪn ðæt sˈɛntɹəl ɹˈoʊl.
+../data/DUMMY2/p233/p233_085.wav|84|wˌaɪ dˈuː juː wˈɔnt tə kˈʌm tʊ ˈɛdɪnbʌɹə ?
+../data/DUMMY2/p233/p233_174.wav|84|ɪts ðæt sˈɔːɹt ʌv nˈaɪt.
+../data/DUMMY2/p233/p233_166.wav|84|ʃiː ˈɔːlsoʊ dᵻfˈɛndᵻd ðə lˈɔːɹd tʃˈænsɛlɚz ɛɡzˈɪstɪŋ pˈaʊɚz.
+../data/DUMMY2/p233/p233_167.wav|84|nˈiːðɚ sˈaɪd kæn wˈɪn ðɪs wˈɔːɹ.
+../data/DUMMY2/p262/p262_058.wav|45|dʒˈɑːbz kʊd ɡˈoʊ.
+../data/DUMMY2/p262/p262_029.wav|45|wiː wˈɔnt tʊ ɛnʃˈʊɹ ðætðə pɹˈɑːsɛs ɪz ɛntˈaɪɚli tɹænspˈæɹənt.
+../data/DUMMY2/p262/p262_152.wav|45|nˈiːðɚ sˈaɪd kæn wˈɪn ðɪs wˈɔːɹ.
+../data/DUMMY2/p262/p262_243.wav|45|dʒˈɑːk bɹˈaʊn ɪz ɐpˈɔɪntᵻd æz dʒˈɛnɚɹəl mˈænɪdʒɚ.
+../data/DUMMY2/p262/p262_305.wav|45|wɪðˌɪn mˈʌnθs, hiː wʌzɐ pˈɑːɹttˈaɪm tɹaɪbjˈuːnəl tʃˈɛɹmən.
+../data/DUMMY2/p262/p262_334.wav|45|ɪt kˌʊdɐv ɡɔn ˈiːðɚ wˈeɪ.
+../data/DUMMY2/p262/p262_245.wav|45|mˈænɪdʒɚ bˈɑːbi wˈɪljəmsən hɐz nˈoʊ ˈɪndʒɚɹi wˈʌɹiz.
+../data/DUMMY2/p262/p262_282.wav|45|ðɛɹwˌʌz ɐ fˈaɪnəl ɹᵻvˈiːlɪŋ diːtˈeɪl ɐbˌaʊt ðə bɹˈɔːdkæst.
+../data/DUMMY2/p262/p262_153.wav|45|hiː kæn dˈuː nˈoʊ ɹˈɔŋ.
+../data/DUMMY2/p262/p262_141.wav|45|aɪv ɡɑːt tə hˈoʊld maɪ ˈoʊn hˈændz ˌʌp fɔːɹ ðˈɪswˌʌn.
+../data/DUMMY2/p310/p310_238.wav|17|lˈæst jˈɪɹ wʌz nˌɑːɾə ɡˈʊd jˈɪɹ.
+../data/DUMMY2/p310/p310_078.wav|17|ɑːɹ juː wˈɑːtʃɪŋ lˈɪvɚpˌuːl?
+../data/DUMMY2/p310/p310_422.wav|17|hiː ˈɔːlsoʊ ɐdmˈɪɾᵻd pəzˈɛsɪŋ ɐ fˈaɪɚɹɑːɹm.
+../data/DUMMY2/p310/p310_421.wav|17|sˌoʊ hiː ʃˌʊd bˈiː.
+../data/DUMMY2/p310/p310_264.wav|17|wiː hɐvnˌɑːt ɡˈɪvən ˌʌp hˈoʊp.
+../data/DUMMY2/p310/p310_062.wav|17|wɪɹ ˌɪntʊ ðæt bˈɪldˌʌp nˈaʊ.
+../data/DUMMY2/p310/p310_180.wav|17|wˌʌt ɪf ðə kənfˈɛʃən ɪz, ˈæftɚɹ ˈɔːl, ɐ fˈeɪk?
+../data/DUMMY2/p310/p310_330.wav|17|ɪɾ ɪz ɐ hˈaɪ tˈaɪm tʊ ˈækt.
+../data/DUMMY2/p310/p310_303.wav|17|ænd ðɛɹ ɪz nˈoʊ kˈɔːz fɔːɹ ɪt.
+../data/DUMMY2/p310/p310_380.wav|17|aɪ dʒˈɔɪnd ɐ ɡɹˈuːp.
+../data/DUMMY2/p267/p267_252.wav|0|ɪf sˈoʊ, ɪɾ ɪz ɐ fˈʌni tˈaɪm tʊ ˌɪntɹədˈuːs ɪt.
+../data/DUMMY2/p267/p267_216.wav|0|aɪ hæv wˈɔntᵻd tə bˈaɪ wˈʌn fɚðə nˈæʃənəl ɡˈælɚɹi.
+../data/DUMMY2/p267/p267_298.wav|0|ɪɾ ɪz ɪnhˈiəɹənt ɪn səsˈaɪəɾi.
+../data/DUMMY2/p267/p267_305.wav|0|ðə dʒˈʌdʒ wʌz ɹˈiəli nˈaɪs.
+../data/DUMMY2/p267/p267_232.wav|0|ɐ smˈɔːl nˈʌmbɚɹ ʌv nˈuː dʒˈɑːbz wɪl ˈɔːlsoʊ biː kɹiːˈeɪɾᵻd.
+../data/DUMMY2/p267/p267_168.wav|0|aɪ ˈɔːlweɪz fˈɛlt ðeɪ plˈeɪd fɔːɹ mˌiː.
+../data/DUMMY2/p267/p267_384.wav|0|ðɪs bˈɪɡ ˈɪʃuː ɪz wˈɛðɚɹ ɪt kæn biː ɛnfˈoːɹst.
+../data/DUMMY2/p267/p267_169.wav|0|ɪɾ ɪz pɹɪmətʃˈʊɹ tə spˈɛkjʊlˌeɪt ɔnðɪ ˈɪmpækt.
+../data/DUMMY2/p267/p267_354.wav|0|sˌʌm wɪl biː dᵻplˈɔɪd ˌɔn sˈʌbmɚɹˌiːnz.
+../data/DUMMY2/p267/p267_357.wav|0|ɪɾ ɪz ɐ stɹˈoʊk ʌv dʒˈiːnɪəs.
+../data/DUMMY2/p246/p246_208.wav|5|ɪts nˌɑːt aɪdˈiəl.
+../data/DUMMY2/p246/p246_197.wav|5|ðɪ ˈælbəm wʌz wˈaɪdli ɛkspˈɛktᵻd təbi ɐ kəmˈɜːʃəl dɪzˈæstɚ.
+../data/DUMMY2/p246/p246_006.wav|5|wˌɛn ðə sˈʌnlaɪt stɹˈaɪks ɹˈeɪndɹɑːps ɪnðɪ ˈɛɹ, ðeɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔːɹm ɐ ɹˈeɪnboʊ.
+../data/DUMMY2/p246/p246_201.wav|5|aɪ wɪl wˈɪn.
+../data/DUMMY2/p246/p246_214.wav|5|ðə kˈaʊnsəl hɐz pɹəpˈoʊzd ɐ tˈɛmpɚɹˌɛɹi bˈæɹiɚ tə pɹətˈɛkt ðə mˈɑːnjuːmənt.
+../data/DUMMY2/p246/p246_178.wav|5|ænd ʃiː ɪz ɐ səksˈɛsfəl ˈæktɚ wɪð θɹˈiː dˈɛkeɪdz ʌv ɛkspˈiəɹɪəns.
+../data/DUMMY2/p246/p246_145.wav|5|hiː sˈɛts ðə nˈeɪtʃɚɹ ʌv hɪz pˈɑːɹləmənt ɪn ɐ sˈɪmpəl, ɹiːəlˈɪstɪk kˈɑːntɛkst.
+../data/DUMMY2/p246/p246_037.wav|5|ðeɪɚ dʒˈʌst dˈɪfɹənt.
+../data/DUMMY2/p246/p246_083.wav|5|flˈɔːɹɪdə ɪz ðə pˈɪvəɾəl stˈeɪt ɪnðə nˈeɪʃən.
+../data/DUMMY2/p246/p246_035.wav|5|ˈʌðɚ mˈɛmbɚz ʌvðə fˈæmɪli wɜː tˈuː ʌpsˈɛt tə kˈɑːmɛnt lˈæst nˈaɪt.
+../data/DUMMY2/p268/p268_353.wav|87|ɪnstˈɛd, hiː mˈɪst ðə lˈɑːt.
+../data/DUMMY2/p268/p268_140.wav|87|ðə ɹˈaɪz ɪn ɹˈiːteɪl sˈeɪlz wʌzðə fˈɜːst sˈɪns ˈɔːɡəst.
+../data/DUMMY2/p268/p268_367.wav|87|kˈɔːɹpɚɹət bˈæŋkɪŋ wʊd biː bˈeɪst ɪn ˈɛdɪnbʌɹə.
+../data/DUMMY2/p268/p268_291.wav|87|wˌɛn ʃiː wɛnt ˈɔf ɪt wʌz kwˈaɪt ɐmˈeɪzɪŋ.
+../data/DUMMY2/p268/p268_092.wav|87|ɪn fˈækt, aɪ hæv ˈiːvən hæd ɐ bˈɛt ˈɔn ðˌɛm.
+../data/DUMMY2/p268/p268_141.wav|87|kˈɑːlɪn sˈɛd, juː ɡɛt θɹuː ðə dˈeɪɾədˈeɪ baɪ lˈʊkɪŋ æt ðə fjˈuːtʃɚ.
+../data/DUMMY2/p268/p268_060.wav|87|ðeɪ dˈɛspɚɹətli wˈɔnt sˌʌm steɪbˈɪlɪɾi.
+../data/DUMMY2/p268/p268_052.wav|87|mɑːɹkˈoʊni ɪz stɹˈʌɡlɪŋ ɐɡˈɛnst tˈɛɹᵻbəl mˈɑːɹkɪt fˈoːɹsᵻz.
+../data/DUMMY2/p268/p268_212.wav|87|pˈiːpəl hɐvbɪn wˈʌndɚfəl bᵻjˌɔnd bᵻlˈiːf.
+../data/DUMMY2/p268/p268_405.wav|87|ðə tˈuː klˈʌbz hæv ɐɡɹˈiːd ðə tɹˈænsfɜː fˈiː.
+../data/DUMMY2/p239/p239_430.wav|48|wiː ɐksˈɛpt ðə nˈuː ɹˈuːlz.
+../data/DUMMY2/p239/p239_486.wav|48|ɪt hˈæpənd ɐɡˈɛn, ænd ɐɡˈɛn, ænd ɐɡˈɛn.
+../data/DUMMY2/p239/p239_236.wav|48|maɪ dˈæd ɪz ɐ hˈiəɹoʊ.
+../data/DUMMY2/p239/p239_127.wav|48|daɪvˈɜːʒənz wɜː pˌʊt ɪn plˈeɪs.
+../data/DUMMY2/p239/p239_181.wav|48|dˈɪd ɪt wˈɜːk ?
+../data/DUMMY2/p239/p239_063.wav|48|ɹᵻbˈɪldɪŋ pˈʌblɪk tɹˈænspoːɹt wʌz nˈɛvɚ ɡˌoʊɪŋ tə hˈæpən ˌoʊvɚnˈaɪt.
+../data/DUMMY2/p239/p239_281.wav|48|dˈaʊnɪŋ stɹˈiːt ɪnsˈɪstᵻd, wiː hæv mˌeɪd klˈɪɹ ðætðə dˈɛdlaɪn ɪz ˈæbsəlˌuːt.
+../data/DUMMY2/p239/p239_015.wav|48|ðə ɡɹˈiːks jˈuːzd tʊ ɪmˈædʒɪn ðˌɐɾɪt wʌzɐ sˈaɪn fɹʌmðə ɡˈɑːdz tə foːɹtˈɛl wˈɔːɹ ɔːɹ hˈɛvi ɹˈeɪn.
+../data/DUMMY2/p239/p239_340.wav|48|ɪt wɪl ɐfˈɛkt ðɛɹ wˈɜːk.
+../data/DUMMY2/p239/p239_157.wav|48|bᵻfˌoːɹ ðə ɡˈeɪm wiː wɛnt fɚɹə pˈaɪnt.
+../data/DUMMY2/p269/p269_375.wav|94|ðə plˈeɪ ɪz bˈeɪst ˌɔn ɐ ɹˈiːəllˈaɪf ᵻvˈɛnt.
+../data/DUMMY2/p269/p269_249.wav|94|ðə pɹˈɑːdʒɛkt hɐz ɔːlɹˌɛdi sᵻkjˈʊɹd ðə səpˈoːɹt ʌv sˌɜː ʃˈɔːŋ kənˈɜːɹi.
+../data/DUMMY2/p269/p269_318.wav|94|ɪɾ ɪz nˈoʊ kˈʌntɹi fɚɹə mˈæn ɔːɹ wˈʊmən ʌv lˈɛɾɚz.
+../data/DUMMY2/p269/p269_200.wav|94|wiː plˈeɪd ðˌɛm ˈɔf ðə pˈɪtʃ.
+../data/DUMMY2/p269/p269_290.wav|94|juːv ɡɑːt tə hæv bˈoʊθ sˈaɪdz.
+../data/DUMMY2/p269/p269_180.wav|94|ɪt wʌzɐ ɡɹˈeɪt ɐtʃˈiːvmənt tə wˈɪn æt wˈɛmbli.
+../data/DUMMY2/p269/p269_024.wav|94|ðɪs ɪz ɐ vˈɛɹi kˈɑːmən tˈaɪp ʌv bˈoʊ, wˈʌn ʃˈoʊɪŋ mˈeɪnli ɹˈɛd ænd jˈɛloʊ, wɪð lˈɪɾəl ɔːɹ nˈoʊ ɡɹˈiːn ɔːɹ blˈuː.
+../data/DUMMY2/p269/p269_320.wav|94|ðə ɹᵻpˈoːɹt wɪl ɡˌoʊ bᵻfˌoːɹ ðə skˈɑːɾɪʃ pˈɑːɹləmənt, pɹˈɑːbəbli ɪn ˈɜːli ˈɔːɾʌm.
+../data/DUMMY2/p269/p269_070.wav|94|aɪ wʌz dʒˈʌst tɹˈaɪɪŋ tə wˈɪn ðə ɡˈɑːlf tˈʊɹnəmənt.
+../data/DUMMY2/p269/p269_304.wav|94|ɐ nˈuː skˈuːl wɪl biː bˈɪlt.
+../data/DUMMY2/p312/p312_223.wav|62|hiː ɪz ɐ vˈɛɹi nˈaɪs mˈæn.
+../data/DUMMY2/p312/p312_114.wav|62|wˌɛɹ dˈuː juː θˈɪŋk ʃiː ɪz ɡˈoʊɪŋ?
+../data/DUMMY2/p312/p312_349.wav|62|pˈɛɹənts ʃˌʊd ɐvˈɔɪd ɪt.
+../data/DUMMY2/p312/p312_327.wav|62|ðɛɹ ɪz stˈɪl hˈoʊp.
+../data/DUMMY2/p312/p312_018.wav|62|ˈæɹɪstˌɑːɾəl θˈɔːt ðætðə ɹˈeɪnboʊ wʌz kˈɔːzd baɪ ɹᵻflˈɛkʃən ʌvðə sˈʌnz ɹˈeɪz baɪ ðə ɹˈeɪn.
+../data/DUMMY2/p312/p312_159.wav|62|ðə wˈɜːld ɪz bˌiːɪŋ ɪnvˈaɪɾᵻd tə vˈɪzɪt.
+../data/DUMMY2/p312/p312_232.wav|62|ðæt ɪz ɪnðə vˈɛɹi nˈeɪtʃɚɹ ʌv fˈɑːɹmɪŋ.
+../data/DUMMY2/p312/p312_412.wav|62|fɹˈaɪdeɪ nˈaɪt wʌzɐ pɹˈɪɾi ɡˈʊd nˈaɪt.
+../data/DUMMY2/p312/p312_094.wav|62|ðeɪ θˈɔːt ðə sˈɛtˌʌp ðɛɹwˌʌz ʌnfˈɛɹ.
+../data/DUMMY2/p312/p312_287.wav|62|ɪnðɪ ˈɛnd, ðæt wʌz ɪnˈʌf tə bˈiːt ˈɪŋɡlənd.
+../data/DUMMY2/p297/p297_378.wav|42|ðeɪ fˈɪnɪʃt sˈɛkənd ænd θˈɜːd.
+../data/DUMMY2/p297/p297_384.wav|42|aɪm nˌɑːt ʃˈʊɹ.
+../data/DUMMY2/p297/p297_123.wav|42|ɐsˈaɪləm ɪz ɐn ɛntˈaɪɚli dˈɪfɹənt ˈɪʃuː tə ɹˈeɪs.
+../data/DUMMY2/p297/p297_343.wav|42|ðə ɡˈɜːlz ɑːɹ ɹˈɛdi tə kəmpˈiːt.
+../data/DUMMY2/p297/p297_192.wav|42|wiːv nˈɛvɚ sˈiːn sˌoʊ mˈɛni.
+../data/DUMMY2/p297/p297_208.wav|42|ˈeɪt nˈuː hˈɑːspɪɾəlz ɑːɹ sˈɛt təbi bˈɪlt.
+../data/DUMMY2/p297/p297_114.wav|42|ɪɾ ˈɪz, ˈɑːnɪstli, dˈɪfɪkəlt tə ɹˈaɪt ɐbˌaʊt ðˈɪs.
+../data/DUMMY2/p297/p297_294.wav|42|sˈʌmwʌn ˈɛls kæn dˈuː ðə kˈʊkɪŋ ðæt nˈaɪt.
+../data/DUMMY2/p297/p297_016.wav|42|ðə nˈoːɹsɪmˌɛŋ kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌmðɪ ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.
+../data/DUMMY2/p297/p297_407.wav|42|wˈʌn pəlˈiːsmən wʌz kˈɪld.
+../data/DUMMY2/p254/p254_295.wav|41|ðæt kʊd tʃˈeɪndʒ.
+../data/DUMMY2/p254/p254_218.wav|41|sˈæɾɚdˌeɪ ɪz ɡˈɔn.
+../data/DUMMY2/p254/p254_392.wav|41|aɪ wʊdhɐv lˈʌvd tə plˈeɪ ɪn ɐn ˈoʊld fˈɜːm.
+../data/DUMMY2/p254/p254_106.wav|41|ðə sᵻlˈɛkʃən pɹˈɑːsɛs ɪz stˈɪl æɾə vˈɛɹi ˈɜːli stˈeɪdʒ.
+../data/DUMMY2/p254/p254_192.wav|41|ɪz ðætˈɪt?
+../data/DUMMY2/p254/p254_359.wav|41|hɪz lˈiːɡəl ɐdvˈaɪzɚ wʌz ˈɔːlsoʊ nˌɑːt ɪŋ kˈoːɹt jˈɛstɚdˌeɪ.
+../data/DUMMY2/p254/p254_002.wav|41|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.
+../data/DUMMY2/p254/p254_398.wav|41|ˈɛɹɪksən wʊdhɐv ɐpɹˈuːvd.
+../data/DUMMY2/p254/p254_257.wav|41|haʊˈɛvɚ, ɪɾ ɪz ˌʌndɚstˈʊd ðæt ˈɔfɚz ʌv fˈɜːðɚ pˈeɪmənts ɑːɹ ʌnlˈaɪkli.
+../data/DUMMY2/p254/p254_013.wav|41|sˌʌm hæv ɐksˈɛptᵻd ɪɾ æz ɐ mˈɪɹəkəl wɪðˌaʊt fˈɪzɪkəl ɛksplɐnˈeɪʃən.
+../data/DUMMY2/p247/p247_399.wav|14|fˈɜːɡəsən mˈʌst tˈeɪk ðə blˈeɪm.
+../data/DUMMY2/p247/p247_455.wav|14|pˈiːpəl ɑːɹ sˌoʊ nˈɛɡətˌɪv ɐbˌaʊt ðə hˈoʊl bˈɪznəs.
+../data/DUMMY2/p247/p247_427.wav|14|maɪ ˈeɪm ɪz ɐ tˈɑːp sˈɪks fˈɪnɪʃ.
+../data/DUMMY2/p247/p247_272.wav|14|dˈuː juː θˈɪŋk wiː ɑːɹ ɐ tˈɑːp nˈeɪʃən ?
+../data/DUMMY2/p247/p247_232.wav|14|wiː plˈeɪd ðˌɛm ˈɔf ðə pˈɪtʃ.
+../data/DUMMY2/p247/p247_071.wav|14|fˈaɪnəl pɹəpˈoʊzəlz wɪl biː pˈʌblɪʃt ɪn fˈɛbɹuːˌɛɹi.
+../data/DUMMY2/p247/p247_283.wav|14|ðeɪ mˈʌst plˈeɪ fɔːɹ ˈiːtʃ ˈʌðɚ.
+../data/DUMMY2/p247/p247_432.wav|14|ɪt wʌzɐ bɹˈɛθteɪkɪŋ mˈoʊmənt.
+../data/DUMMY2/p247/p247_247.wav|14|aɪɐm nˌɑːt ɡˌoʊɪŋ tə ɡˌoʊ təmˈɑːɹoʊ.
+../data/DUMMY2/p247/p247_205.wav|14|ðɪ ˈɜːli fˈɪzɪkəl ɹᵻpˈoːɹts wɜː klˈɪɹ.
+../data/DUMMY2/p264/p264_344.wav|65|aɪ wʌz æt ðə bɹˈɪɾɪʃ əlˈɪmpɪk mˈɛdɪkəl sˈɛntɚ, ˌɔn fɹˈaɪdeɪ.
+../data/DUMMY2/p264/p264_094.wav|65|wˌʌt ɪz ðə wˈaɪf?
+../data/DUMMY2/p264/p264_206.wav|65|ðɪs tˈeɪks nˈoʊ ɐkˈaʊnt ʌv hoʊtˈɛl ænd tˈʊɹɹɪzəm lˈɔsᵻz.
+../data/DUMMY2/p264/p264_162.wav|65|ɪɾ ɪz dʒˈʌst tˈuː tˈʌf.
+../data/DUMMY2/p264/p264_243.wav|65|ˈeɪt mˈʌnθs lˈeɪɾɚ, hiː wʌz dˈɛd.
+../data/DUMMY2/p264/p264_197.wav|65|ɪz ɪt wˈɜːθ ɪt?
+../data/DUMMY2/p264/p264_310.wav|65|hiː lˈɛft pɹˈɪɾi kwˈɪkli.
+../data/DUMMY2/p264/p264_455.wav|65|ðeɪ θˈɔːt hiː wʌz ˈæskɪŋ ðə ɹˈaɪt kwˈɛstʃənz.
+../data/DUMMY2/p264/p264_428.wav|65|aɪ hæv tə pɹətˈɛkt ðˌɛm.
+../data/DUMMY2/p264/p264_406.wav|65|ðə sˈɔŋz ɑːɹ dʒˈʌst sˌoʊ ɡˈʊd.
+../data/DUMMY2/p257/p257_375.wav|105|ɪɾ ɪz lˈaɪkli ðə ɹˈɛst ʌvðə mˈɑːɹkɪt wɪl fˈɑːloʊ sˈuːt.
+../data/DUMMY2/p257/p257_373.wav|105|ɪɾ ɪz ʌnjˈuːʒuːəl.
+../data/DUMMY2/p257/p257_190.wav|105|wiː mˈʌst kˈiːp ˌaʊɚ fˈiːt ɔnðə ɡɹˈaʊnd.
+../data/DUMMY2/p257/p257_380.wav|105|maɪ hˈʌsbənd wʌz bˈɔːɹn ɪn zɪmbˈɑːbwi.
+../data/DUMMY2/p257/p257_324.wav|105|ðɪ ɐnˈaʊnsmənt wʌz mˌeɪd ˈæftɚɹ ˈɪŋkwɚɹiz fɹʌm ɐ nˈæʃənəl nˈuːzpeɪpɚ.
+../data/DUMMY2/p257/p257_119.wav|105|aɪm dᵻlˈaɪɾᵻd ɐbˌaʊt ðˈæt.
+../data/DUMMY2/p257/p257_387.wav|105|sˌoʊ aɪ dˈɪd.
+../data/DUMMY2/p257/p257_259.wav|105|ɪts vˈɛɹi nˈaɪs.
+../data/DUMMY2/p257/p257_077.wav|105|pˈiːpəl mˈʌst ɹᵻmˈeɪn vˈɪdʒɪlənt.
+../data/DUMMY2/p257/p257_315.wav|105|aɪɐm sˌoʊ ʌpsˈɛt.
+../data/DUMMY2/p316/p316_059.wav|85|ɪt dˈʌzənt lˈʊk æz pɹˈɪɾi.
+../data/DUMMY2/p316/p316_284.wav|85|ðə tʃˈeɪndʒ wʌz nˌɑːt ˈɪnstənt.
+../data/DUMMY2/p316/p316_397.wav|85|ðeɪ ɑːɹ nˌɑːt lˈɛft wˈɪŋ.
+../data/DUMMY2/p316/p316_317.wav|85|ɪts ɐ ɹˈiːəl tʃˈælɪndʒ.
+../data/DUMMY2/p316/p316_216.wav|85|ɪɾ ɪz tˈuː mʌtʃ fɔːɹ mˌiː.
+../data/DUMMY2/p316/p316_282.wav|85|aɪ dʒˈʌst hˈoʊp ɪts nˌɑːt tənˈaɪt ɐɡˈɛnst ˌʌs.
+../data/DUMMY2/p316/p316_270.wav|85|fˈiːl ðə hˈiːt?
+../data/DUMMY2/p316/p316_207.wav|85|bˈoʊθ mˈɛn wɜːɹ ˌʌnˈɪndʒɚd.
+../data/DUMMY2/p316/p316_137.wav|85|hiː ɪz ɐ bˈʊli.
+../data/DUMMY2/p316/p316_360.wav|85|aɪm ʃˈʊɹ ðæt klˈʌbz wɪl ˈɔːl biː dᵻlˈaɪɾᵻd.
+../data/DUMMY2/p293/p293_092.wav|23|aɪ sˈiːm tə kˈiːp ðɪs fɚðə mˈeɪdʒɚz.
+../data/DUMMY2/p293/p293_266.wav|23|hiː wɪl biː ɐdvˈaɪzd baɪ mˌiː.
+../data/DUMMY2/p293/p293_221.wav|23|ɪt wɪl tˈeɪk sˌʌm tˈaɪm tʊ ɪstˈæblɪʃ.
+../data/DUMMY2/p293/p293_205.wav|23|hiː dˈʌzənt hæv tə lˈaɪk ɪt, bˌʌt hiː mˈʌst ɐksˈɛpt ɪt.
+../data/DUMMY2/p293/p293_028.wav|23|ˈɔːl maɪ tɹˈeɪnɪŋ ɪz fɔːɹ ˈæθᵻnz.
+../data/DUMMY2/p293/p293_342.wav|23|mˈɪstɚ blˈɛɹ ɪz ðə pɹˈɑːbləm ɪn skˈɑːtlənd, nˌɑːt ðə səlˈuːʃən.
+../data/DUMMY2/p293/p293_150.wav|23|wiː hæv nˈoʊ aɪdˈiə wʌt kˈɔːzd ðə dᵻɹˈeɪlmənt.
+../data/DUMMY2/p293/p293_335.wav|23|ðeɪ hæd ˈæskt nˌɑːt təbi nˈeɪmd.
+../data/DUMMY2/p293/p293_396.wav|23|aɪ ʃˌʊd nˈɛvɚ hæv kˈʌm ˌoʊvɚ tə fˈaɪf.
+../data/DUMMY2/p293/p293_037.wav|23|aɪ hæv ɡɑːt tʊ ɐdˈɑːpt ðə sˈeɪm ɐpɹˈoʊtʃ.
+../data/DUMMY2/p318/p318_217.wav|19|hiː dˈɪd hɪz bˈɛst, bˌʌt ɪt wˈʌzn̩t ɡˈʊd ɪnˈʌf.
+../data/DUMMY2/p318/p318_405.wav|19|ðɪ ˈoʊpən tʃˈæmpiən ɪz bˈæk.
+../data/DUMMY2/p318/p318_347.wav|19|ðɪs mˈɔːɹnɪŋ wʌz vˈɛɹi kwˈaɪət.
+../data/DUMMY2/p318/p318_230.wav|19|ʃiː ˈæskt ˌʌs ɐ lˈɑːt ʌv kwˈɛstʃənz.
+../data/DUMMY2/p318/p318_152.wav|19|aɪɐm ɐʃˈeɪmd ʌv ðˌɛm.
+../data/DUMMY2/p318/p318_314.wav|19|bˌʌt ðeɪ hædtə biː pˈeɪd fɔːɹ.
+../data/DUMMY2/p318/p318_135.wav|19|aɪ mˈiːn ɪt hˈæpənz.
+../data/DUMMY2/p318/p318_383.wav|19|ɪts ˈɔːlweɪz ðə sˈeɪm, ˈɪzənt ɪt?
+../data/DUMMY2/p318/p318_030.wav|19|wiː hæv tə pˌʊt ðɪs bᵻhˈaɪnd ˌʌs.
+../data/DUMMY2/p318/p318_067.wav|19|sˈændi wʌz vˈɛɹi ˈæktɪv.
+../data/DUMMY2/p288/p288_208.wav|47|twˈɑːdəl ɪz ɐ kˈeɪs ɪn pˈɔɪnt.
+../data/DUMMY2/p288/p288_334.wav|47|aɪd lˈaɪk tə tˈeɪk ðə plˈʌndʒ.
+../data/DUMMY2/p288/p288_259.wav|47|dʒˈɔːɹdʒ dˈʌbəljˌuː bˈʊʃ, ðə jˌuːˈɛs pɹˈɛzɪdənt, kəndˈɛmd ðɪ ɐtˈæks.
+../data/DUMMY2/p288/p288_348.wav|47|ɐ fjˈuː dˈeɪz ˈæftɚ mˌeɪkɪŋ ðə vˈɪdɪoʊ, aɪ wɛnt tə ðɪ ˈɪŋkwɚɹi.
+../data/DUMMY2/p288/p288_339.wav|47|ɪn fˈækt, ɪɾ ɪz dˈiːpli ʌnplˈɛzənt.
+../data/DUMMY2/p288/p288_172.wav|47|ɪn spˈaɪt ʌv ɹˈiːsənt ɐdvˈænsᵻz, ðə lˈæŋɡwɪdʒ ɪz stˈɪl ˌʌndɚ θɹˈɛt.
+../data/DUMMY2/p288/p288_075.wav|47|ðə ɡˈaɪdlaɪnz ɑːɹ ɛkspˈɛktᵻd təbi fˈaɪnəlˌaɪzd bᵻfˌoːɹ nˈɛkst spɹˈɪŋ.
+../data/DUMMY2/p288/p288_014.wav|47|tə ðə hˈiːbɹuːz ɪt wʌzɐ tˈoʊkən ðæt ðɛɹ wʊd biː nˈoʊmˌoːɹ jˌuːnɪvˈɜːsəl flˈʌdz.
+../data/DUMMY2/p288/p288_283.wav|47|hˌuː wɪl pɚfˈɔːɹm?
+../data/DUMMY2/p288/p288_412.wav|47|ðæt mˈeɪ bˈiː.
+../data/DUMMY2/p351/p351_072.wav|33|aɪ fˈiːl ɐlˈaɪv ænd ɡˈʊd tədˈeɪ.
+../data/DUMMY2/p351/p351_310.wav|33|ænd ɪt hɐdbɪn ɐ mˈɑːɹvələs əkˈeɪʒən.
+../data/DUMMY2/p351/p351_134.wav|33|wiː kæn plˈeɪ bˈɛɾɚ ðɐn ðˈæt.
+../data/DUMMY2/p351/p351_340.wav|33|sˌoʊ wiː tˈɔːkt ɐbˌaʊt ðæt fɚɹə bˈɪt.
+../data/DUMMY2/p351/p351_252.wav|33|nˈaʊ wiː ɑːɹ bˈæk ˌɔn tˈɑːp ʌv jˈʊɹɹəp.
+../data/DUMMY2/p351/p351_207.wav|33|sˈɪks jˈɪɹz ɪz tˈuː lˈɔŋ.
+../data/DUMMY2/p351/p351_164.wav|33|aɪm dʒˈʌst ɐ pˈiːs ɪnðə dʒˈɪɡsɔː.
+../data/DUMMY2/p351/p351_033.wav|33|æz ɐ skˈuːltiːtʃɚ hiː wʌz ɐn ˈɛksələnt kˈoʊtʃ.
+../data/DUMMY2/p351/p351_341.wav|33|bˌʌt hiː hɐz stɹˈɔŋ lˈɪŋks tə lˈeɪbɚ.
+../data/DUMMY2/p351/p351_181.wav|33|ʃiː dˈɪdnt tˈɛl mˌiː ˈɛnɪθˌɪŋ ðə nˈaɪt bᵻfˈoːɹ.
+../data/DUMMY2/p326/p326_371.wav|28|ðæts ˈɔːlweɪz ðə kˈeɪs, ˈɪzənt ɪt?
+../data/DUMMY2/p326/p326_397.wav|28|maɪ fjˈuːtʃɚɹ ɪz ɪnðə mˈæɹəθˌɑːn.
+../data/DUMMY2/p326/p326_138.wav|28|hˈɑːlənd wˈʌn baɪ fˈaɪv wˈɪkɪts.
+../data/DUMMY2/p326/p326_130.wav|28|ɪts ɐbˌaʊt ˈæɾɪtˌuːdz tə tʃˈeɪndʒ.
+../data/DUMMY2/p326/p326_140.wav|28|ˈæftɚ dˈeɪ wˈʌn bˈæk, hiː mˈeɪ biː ɹᵻvˈaɪzɪŋ ðæt əpˈɪniən ɔːlɹˈɛdi.
+../data/DUMMY2/p326/p326_151.wav|28|bˌʌt wʌt wɪl wiː pˌʊt ˈɔn ɪt?
+../data/DUMMY2/p326/p326_129.wav|28|ðɪs ɪz nˌɑːɾə lˈɔŋtˈɜːm kəmˈɪtmənt.
+../data/DUMMY2/p326/p326_068.wav|28|ˈɛvɹɪwˌʌŋ kʊd sˈiː ɪɾ ɐpˈɑːɹt fɹʌm kˈɛvɪŋ kˈiːɡən.
+../data/DUMMY2/p326/p326_234.wav|28|ðɛɹˌɑːɹ nˈoʊ ˈiːzi səlˈuːʃənz tə ðɪs pɹˈɑːbləm.
+../data/DUMMY2/p326/p326_368.wav|28|ɪts hˈɑːɹd nˌɑːt tuː.
+../data/DUMMY2/p329/p329_186.wav|103|aɪ wˈɔntᵻd, ɹˈiəli, tə dˈiːl wɪð tˈuː ˈɑːpəzˌɪt ˈɛnɚdʒiz.
+../data/DUMMY2/p329/p329_214.wav|103|haʊˈɛvɚ, ðeɪ kəntˈɪnjuːd ɪn ðɛɹ pɚsˈuːt ʌv vˈɪktɚɹi.
+../data/DUMMY2/p329/p329_187.wav|103|wˌʌt ɪz ðə tɹˈuːθ ɐbˌaʊt ðə kˈaʊ?
+../data/DUMMY2/p329/p329_199.wav|103|aɪ hæv ɐ θˈiəɹi.
+../data/DUMMY2/p329/p329_406.wav|103|aɪ wˈɔnt ɐ fɹˈiː vˈoʊt.
+../data/DUMMY2/p329/p329_153.wav|103|nˈɔːɹðɚn ˈaɪɚlənd ɪz ɐ səsˈaɪəɾi dᵻvˈaɪdᵻd baɪ ɹᵻlˈɪdʒən.
+../data/DUMMY2/p329/p329_248.wav|103|wiː sˈɜːʔn̩li dˈɪd ɪnˈʌf tə wˈɪn ɪt, bˌʌt dˈɪdnt.
+../data/DUMMY2/p329/p329_173.wav|103|ðeɪ hæd pɹˈiːviəsli bˌɪn ˌɔn fˈaɪvdˈeɪ nˈoʊɾɪs.
+../data/DUMMY2/p329/p329_380.wav|103|aɪ nˈɛvɚɹ ɐɡɹˈiːd wɪð ðˈæt.
+../data/DUMMY2/p329/p329_128.wav|103|ðə tɹˈaɪəl ɪz sˈɛt fɔːɹ fˈɛbɹuːˌɛɹi.
+../data/DUMMY2/p255/p255_146.wav|31|ˈælɪs, ðə ɡˈɜːl, wʌz sˈɛd baɪ dˈɑːktɚz təbi ɪŋ ɡˈʊd kəndˈɪʃən.
+../data/DUMMY2/p255/p255_326.wav|31|maɪ vjˈuː hɐz nˈaʊ kəmplˈiːtli tʃˈeɪndʒd.
+../data/DUMMY2/p255/p255_107.wav|31|hiː lˈiːvz ɐ wˈaɪf, ɐ sˈʌn ænd ɐ dˈɔːɾɚ.
+../data/DUMMY2/p255/p255_380.wav|31|ðə kˈæʒuːəlɾiz wɜː nˌɑːt nˈeɪmd.
+../data/DUMMY2/p255/p255_003.wav|31|sˈɪks spˈuːnz ʌv fɹˈɛʃ snˈoʊ pˈiːz, fˈaɪv θˈɪk slˈæbz ʌv blˈuː tʃˈiːz, ænd mˈeɪbiː ɐ snˈæk fɔːɹ hɜː bɹˈʌðɚ bˈɑːb.
+../data/DUMMY2/p255/p255_174.wav|31|ðeɪ wɪl dˈuː ðɛɹ ˈoʊn θˈɪŋ.
+../data/DUMMY2/p255/p255_197.wav|31|aɪ kænˈɑːt sˈeɪ tˈuː mʌtʃ ɐbˈaʊt ðˌɛm.
+../data/DUMMY2/p255/p255_024.wav|31|ðɪs ɪz ɐ vˈɛɹi kˈɑːmən tˈaɪp ʌv bˈoʊ, wˈʌn ʃˈoʊɪŋ mˈeɪnli ɹˈɛd ænd jˈɛloʊ, wɪð lˈɪɾəl ɔːɹ nˈoʊ ɡɹˈiːn ɔːɹ blˈuː.
+../data/DUMMY2/p255/p255_241.wav|31|ɪɾ ɪz mˈeɪnstɹiːm.
+../data/DUMMY2/p255/p255_376.wav|31|kˈʌlɚ wʌz æt ðə kˈoːɹ ʌv hɪz lˈaɪf.
+../data/DUMMY2/p277/p277_253.wav|89|blˈʌd sˈæmpəlz wɜː tˈeɪkən.
+../data/DUMMY2/p277/p277_349.wav|89|wiː wɪl biː hˈoʊmləs.
+../data/DUMMY2/p277/p277_188.wav|89|pˈiːs wʌz wˈʌn.
+../data/DUMMY2/p277/p277_212.wav|89|aɪɐm vˈɛɹi sˈɑːɹi ðæt ˈælɐstˌɛɹ kˈæmbəl hɐz tˈeɪkən ðɪs dᵻsˈɪʒən.
+../data/DUMMY2/p277/p277_108.wav|89|pɹˈiːviəsli, ðeɪ wɜː ɹˈeɪzd ɪnðə jˌʊɹɹəpˈiəŋ kˈoːɹt ʌv hjˈuːmən ɹˈaɪts.
+../data/DUMMY2/p277/p277_456.wav|89|ɪf ðeɪ dˈoʊnt, ðeɪ ʃˌʊd sˈeɪ sˈoʊ.
+../data/DUMMY2/p277/p277_115.wav|89|aɪɐm dʒˈʌst tɹˈaɪɪŋ tə dˈuː maɪ dʒˈɑːb.
+../data/DUMMY2/p277/p277_376.wav|89|juː kæŋ kˈoʊp wɪð ɪt.
+../data/DUMMY2/p277/p277_088.wav|89|hiː lˈaɪkt tə ɡˈɪv ðɪ ɪmpɹˈɛʃən ʌv bˌiːɪŋ ɐ hˈɑːɹd mˈæn.
+../data/DUMMY2/p277/p277_075.wav|89|ðɛɹwˌʌz ɐn ˈiːmˈeɪl.
+../data/DUMMY2/p341/p341_409.wav|66|hiː nˈiːdz tə bˈiː.
+../data/DUMMY2/p341/p341_219.wav|66|aɪɐm tˈoʊɾəli dɪvˈoʊɾᵻd tə ðɪs dʒˈɑːb.
+../data/DUMMY2/p341/p341_148.wav|66|ɪn tˈaɪm, mˈeɪ pɹˈuːv ɐ wˈɜːði səksˈɛsɚ tə bˈɪli dˈɑːdz.
+../data/DUMMY2/p341/p341_181.wav|66|ðæts hˌaʊ ɪt wˈɜːkt ɪn bˈɑːsniə.
+../data/DUMMY2/p341/p341_333.wav|66|lˈæmbɚt wɪl biː plˈeɪɪŋ ɐɡˈɛnst bˈɛldʒəm.
+../data/DUMMY2/p341/p341_175.wav|66|ʌv kˈoːɹs hiː ɪz.
+../data/DUMMY2/p341/p341_263.wav|66|ðɪs tˈaɪm, ðɛɹwˌɜː nˈoʊ sˈʌtʃ ɹᵻwˈɔːɹdz.
+../data/DUMMY2/p341/p341_067.wav|66|ænd hˌuː wʊd ˈɑːɹɡjuː wɪð ðˈæt?
+../data/DUMMY2/p341/p341_195.wav|66|fˈɛlt ɡˈʊd ɐbˈaʊt ɪt.
+../data/DUMMY2/p341/p341_353.wav|66|aɪ kˈænt stˈɑːp pˈiːpəl θˈɪŋkɪŋ.
+../data/DUMMY2/p276/p276_133.wav|106|nˈoʊwˈʌn pˈɜːsən ɔːɹ smˈɔːl ɡɹˈuːp kʊd biː sˈɪŋɡəld ˈaʊt.
+../data/DUMMY2/p276/p276_402.wav|106|haʊˈɛvɚ, ðɛɹ ɪz ɐn ˈɪʃuː, ˌɪzənt ðˈɛɹ ?
+../data/DUMMY2/p276/p276_313.wav|106|wiːvhˌæd ɡɹˈeɪt θˈɪŋz ɪnðə pˈæst.
+../data/DUMMY2/p276/p276_240.wav|106|ɪz ɪt wˈɜːθ ɪt ?
+../data/DUMMY2/p276/p276_449.wav|106|hiː wʌz ɹᵻlˈiːst ˈæftɚ tɹˈiːtmənt.
+../data/DUMMY2/p276/p276_180.wav|106|ɪt wʌzɐ sˈoʊbɚɹɪŋ ɛkspˈiəɹɪəns.
+../data/DUMMY2/p276/p276_186.wav|106|ðə fˈɛstɪvəlz wɪl biː ɐbˌaʊt hˌævɪŋ fˈʌn.
+../data/DUMMY2/p276/p276_042.wav|106|hiː ɪz mˈæɹid wɪð θɹˈiː tʃˈɪldɹən.
+../data/DUMMY2/p276/p276_019.wav|106|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+../data/DUMMY2/p276/p276_322.wav|106|aɪ sˈɔː ðˌɛm lˈæst wˈiːk.
+../data/DUMMY2/p252/p252_011.wav|55|wˌɛn ɐ mˈæn lˈʊks fɔːɹ sˈʌmθɪŋ bᵻjˌɔnd hɪz ɹˈiːtʃ, hɪz fɹˈɛndz sˈeɪ hiː ɪz lˈʊkɪŋ fɚðə pˈɑːt ʌv ɡˈoʊld æt ðɪ ˈɛnd ʌvðə ɹˈeɪnboʊ.
+../data/DUMMY2/p252/p252_004.wav|55|wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz.
+../data/DUMMY2/p252/p252_258.wav|55|ɪt wʌz ɐn ˈæksɪdənt.
+../data/DUMMY2/p252/p252_387.wav|55|ɪts klˈɪɹli ɐ bˈʌdʒɪt.
+../data/DUMMY2/p252/p252_347.wav|55|ðoʊz ˌoʊvɚsˈiːz ˈɑːfɪsᵻz wɜː ɡɹˈeɪt.
+../data/DUMMY2/p252/p252_198.wav|55|ðə hoʊtˈɛl wʌz hjˈuːdʒ.
+../data/DUMMY2/p252/p252_352.wav|55|nˈoʊ spˈoːɹt nˈiːdz ðæt sˈɔːɹt ʌv θˈɪŋ.
+../data/DUMMY2/p252/p252_114.wav|55|sˌoʊ ðeɪ ʃˌʊd bˈiː.
+../data/DUMMY2/p252/p252_189.wav|55|aɪv nˈɛvɚ hæd ɐ jˈɪɹ lˈaɪk ðˈɪs.
+../data/DUMMY2/p252/p252_354.wav|55|ˌɛni ˈɪŋkɹiːs ˈɔːlweɪz hɐz sˌʌm ɪfˈɛkt.
+../data/DUMMY2/p300/p300_277.wav|102|tˈʊɹɹɪzəm kəntˈɪnjuːz tə stɹˈʌɡəl.
+../data/DUMMY2/p300/p300_032.wav|102|ðə mjˈuːzɪk ˈɪndʌstɹi hˈæzənt tʃˈeɪndʒd æɾ ˈɔːl.
+../data/DUMMY2/p300/p300_075.wav|102|ʃiː ˈoʊpənz tənˈaɪt ɪŋ ɡlˈæzɡoʊ, æt ðə kˈɪŋz θˈiəɾɚ.
+../data/DUMMY2/p300/p300_012.wav|102|θɹuːˈaʊt ðə sˈɛntʃɚɹiz pˈiːpəl hæv ɛksplˈeɪnd ðə ɹˈeɪnboʊ ɪn vˈɛɹiəs wˈeɪz.
+../data/DUMMY2/p300/p300_107.wav|102|ðə kˈʌltʃɚɹ ɪz ɛkstɹˈiːmli wˈaɪdspɹɛd ænd vˈaɪbɹənt.
+../data/DUMMY2/p300/p300_390.wav|102|sˈɜːʔn̩li, ɪn tˈɜːmz ʌv lˈiːɡ pəzˈɪʃən, wiː mˈʌst biː fˈeɪvɹɪts.
+../data/DUMMY2/p300/p300_065.wav|102|hɪz ɹˈaɪvəlz ɑːɹ spˈoʊkən wɪð eɪlˈɑːn.
+../data/DUMMY2/p300/p300_002.wav|102|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.
+../data/DUMMY2/p300/p300_163.wav|102|aɪ tˈʊk ɐ mˈɪnɪbˌʌs ˌɪntʊ tˈaʊn.
+../data/DUMMY2/p300/p300_125.wav|102|wˈɑːlɪs wʌzɐ pɹˈɪzənɚɹ ʌv wˈɔːɹ.
+../data/DUMMY2/p294/p294_319.wav|104|ɪɾ ɪz ɐn ɪmpɹˈɛsɪv ɹˈɛkɚd.
+../data/DUMMY2/p294/p294_118.wav|104|wiː ɑːɹ ðə wˈiːkɪst lˈɪŋk.
+../data/DUMMY2/p294/p294_259.wav|104|ɐ skˈɑːtsmən hɐz tə dᵻfˈɛnd hɪz kˈæsəl.
+../data/DUMMY2/p294/p294_075.wav|104|ʌntˈɪl ðeɪ kˈeɪm tə dˈuː ɪt.
+../data/DUMMY2/p294/p294_114.wav|104|ðɪ ˈɪndʌstɹi wɪl tɹˈaɪ tə ɡɛt ɹˈaʊnd ɪt.
+../data/DUMMY2/p294/p294_039.wav|104|hiː ɡɑːt ðə sˈeɪm stˈoːɹi.
+../data/DUMMY2/p294/p294_393.wav|104|nˈaɪn dˈeɪz lˈeɪɾɚ, hiː sˈʌfɚd ɐnˈʌðɚɹ ɐtˈæk.
+../data/DUMMY2/p294/p294_386.wav|104|aɪ tˈoʊld hɜː, ænd ʃiː wʌz ɛkstɹˈiːmli ɡɹˈeɪtfəl.
+../data/DUMMY2/p294/p294_295.wav|104|ðeɪv ɡɑːt ɐ mˈaʊntɪn tə klˈaɪm.
+../data/DUMMY2/p294/p294_304.wav|104|kʊd ɪt hɐvbɪn bˈɛɾɚ spˈɛnt?
+../data/DUMMY2/p234/p234_198.wav|3|ɪf ðæts ðə kˈeɪs, hiː wɪl stɹˈʌɡəl.
+../data/DUMMY2/p234/p234_243.wav|3|wʌz ˈɛvɹɪθˌɪŋ dˈʌn tə sˈeɪv pˈiːpəl ?
+../data/DUMMY2/p234/p234_155.wav|3|wiː wˈɔnt tə ɡɛt ðˈɛɹ.
+../data/DUMMY2/p234/p234_317.wav|3|ɪɾ ɪz ɐ kɹˈaɪsɪs ʌv hjˈuːmən ɹˈaɪts, ɐ kɹˈaɪsɪs ʌv lˈiːdɚʃˌɪp.
+../data/DUMMY2/p234/p234_090.wav|3|wˌaɪ dˈuː ɪɾ ˈʌðɚwˌaɪz ?
+../data/DUMMY2/p234/p234_325.wav|3|ɪz ðɛɹ ɐ wˈeɪɾɪŋ lˈɪst ?
+../data/DUMMY2/p234/p234_095.wav|3|baɪ ðˈɛn, hiː wʌz wˈɔːkɪŋ ˌɔn wˈɔːɾɚ.
+../data/DUMMY2/p234/p234_149.wav|3|fˈʊl kənsˈɛnt ɪz ɛkspˈɛktᵻd baɪ ðɪ ˈɛnd ʌv nˈɛkst jˈɪɹ.
+../data/DUMMY2/p234/p234_166.wav|3|æt ðə mˈoʊmənt wiː duːnˌɑːt ˌʌndɚstˈænd ɪt.
+../data/DUMMY2/p234/p234_138.wav|3|ænd dˈʌz ɪt ?
+../data/DUMMY2/p272/p272_282.wav|69|ɪt wʌz ɡˈʊd.
+../data/DUMMY2/p272/p272_352.wav|69|ˈɑːbviəsli, wiː wɜː pɹˈɪɾi klˈoʊs ɪn ɐ kˈʌpəl ʌv ɡˈeɪmz.
+../data/DUMMY2/p272/p272_334.wav|69|ðɪs ɪz ɐ sˈɛktɚɹ ɪn ˌoʊvɚɹˈɔːl dˈɛfɪsˌɪt ænd ˈɜːdʒənt ˈækʃən ɪz ɹᵻkwˈaɪɚd.
+../data/DUMMY2/p272/p272_264.wav|69|ˌaʊɚɹ ɑːbdʒˈɛktɪv ɪz tə tˈækəl pˈɑːvɚɾi.
+../data/DUMMY2/p272/p272_156.wav|69|ðə dᵻpˈɑːɹtʃɚɹ ʌv mˈɪstɚ dʒˈɑːnstən wʌz ɹᵻpˈoːɹɾᵻd baɪ ðə hˈɛɹəld jˈɛstɚdˌeɪ.
+../data/DUMMY2/p272/p272_262.wav|69|ɪt dᵻpˈɛndz ɔnðɪ ɪntˈɜːnəl dɪskˈʌʃənz ɪnðə mˈɪnɪstɹi ʌv dᵻfˈɛns.
+../data/DUMMY2/p272/p272_309.wav|69|plˈænz tə sˈɛləbɹˌeɪt ðə kwˈiːnz ɡˈoʊldən dʒˈuːbɪlˌiː wɪl pɹəsˈiːd.
+../data/DUMMY2/p272/p272_270.wav|69|ɪn fˈækt, hiː wʌz tˈɔːkɪŋ ɐbˌaʊt ðə sɚvˈaɪvəl bˈɪznəs.
+../data/DUMMY2/p272/p272_381.wav|69|fˈæmɪli liːˈeɪzɑːn ˈɑːfɪsɚz ɑːɹ nˈaʊ wˈɜːkɪŋ tə səpˈoːɹt ðə fˈæmɪli.
+../data/DUMMY2/p272/p272_370.wav|69|aɪv nˈɛvɚ sˈiːn ɐ ɡˈeɪm lˈaɪk ɪt.
+../data/DUMMY2/p251/p251_015.wav|9|ðə ɡɹˈiːks jˈuːzd tʊ ɪmˈædʒɪn ðˌɐɾɪt wʌzɐ sˈaɪn fɹʌmðə ɡˈɑːdz tə foːɹtˈɛl wˈɔːɹ ɔːɹ hˈɛvi ɹˈeɪn.
+../data/DUMMY2/p251/p251_034.wav|9|mˈɪstɚ fˈɜːɡəsən bɪkˌeɪm ɐ mˈɪnɪstɚɹ ˈæftɚ sˈɛvən jˈɪɹz æz ɐ dʒˈɜːnəlˌɪst.
+../data/DUMMY2/p251/p251_155.wav|9|aɪ nˈuː hiː wʌz ɡˈʊd.
+../data/DUMMY2/p251/p251_217.wav|9|aɪ bɪɡˈæn tə pɹˈeɪ.
+../data/DUMMY2/p251/p251_007.wav|9|ðə ɹˈeɪnboʊ ɪz ɐ dᵻvˈɪʒən ʌv wˈaɪt lˈaɪt ˌɪntʊ mˈɛni bjˈuːɾifəl kˈʌlɚz.
+../data/DUMMY2/p251/p251_315.wav|9|ɐ nˈuː skˈuːl wɪl biː bˈɪlt.
+../data/DUMMY2/p251/p251_351.wav|9|wiː hˈævənt hˌæd ˌɛni ædvˈɜːs ɹɪˈækʃən tə ðə pɹˈɑːdʒɛkt.
+../data/DUMMY2/p251/p251_068.wav|9|ðæt wʌzðɪ ˈiːzi ᵻlˈɛkʃən.
+../data/DUMMY2/p251/p251_360.wav|9|ðeɪ ɡɑːt ʌpsˈɛt.
+../data/DUMMY2/p251/p251_098.wav|9|tˈuː ʌvðə tˈiːm bɪkˌeɪm ˈɪl.
+../data/DUMMY2/p240/p240_074.wav|93|ðeɪ duːnˌɑːt wˈɜːk fɔːɹ ɡlˈæzɡoʊ sˈɪɾi kˈaʊnsəl.
+../data/DUMMY2/p240/p240_249.wav|93|aɪɐm ðɪ ˈɑːpəzˌɪt bɪkˈʌz aɪ hˈævənt plˈeɪd vˈɛɹi mˈʌtʃ.
+../data/DUMMY2/p240/p240_156.wav|93|ðə wˈɛðɚɹ ɐfˈɛktᵻd ðɪ ˈʌðɚ tˈuː ɡˈeɪmz ɪn fˈaɪf.
+../data/DUMMY2/p240/p240_277.wav|93|ˈæksɛs hɐzbɪn ɐ nˈaɪtmɛɹ.
+../data/DUMMY2/p240/p240_059.wav|93|fɚðə mˈiːntaɪm, ðˈoʊ, ðə sˈaɪnz ɑːɹ ɡˈʊd.
+../data/DUMMY2/p240/p240_150.wav|93|ɪts ɐmˈeɪzɪŋ, bˌʌt aɪ hæv nˈɛvɚ sˈiːn ɐ dɹˈʌɡ tˈɛst ɪn skˈɑːtlənd.
+../data/DUMMY2/p240/p240_052.wav|93|ðə jˈuːɡəslˌæv pɹˈɛzɪdənt sˈɛd hiː dɪdnˌɑːt ɹˈɛkəɡnˌaɪz ðɪ ᵻlˈɛkʃən ˈaʊtkʌm.
+../data/DUMMY2/p240/p240_019.wav|93|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+../data/DUMMY2/p240/p240_326.wav|93|ɪɾ ɪz ˈaʊt ðˈɛɹ.
+../data/DUMMY2/p240/p240_296.wav|93|ɪts lˈaɪk ɐ hˈaɪ skˈuːl plˈeɪ.
+../data/DUMMY2/p253/p253_390.wav|70|aɪvhˌæd maɪ tˈaɪm.
+../data/DUMMY2/p253/p253_281.wav|70|ðeɪ hæv ʃˈoʊn ɐ ɡɹˈeɪt dɪzˈaɪɚ ænd ˈæɾɪtˌuːd.
+../data/DUMMY2/p253/p253_179.wav|70|ðə ɡˈoʊlz wɜː ɡˈʊd.
+../data/DUMMY2/p253/p253_186.wav|70|dˈʌz ðɪs mˈæɾɚ?
+../data/DUMMY2/p253/p253_192.wav|70|wiː spˈiːk ɐbˌaʊt ðə pɚfˈoːɹməns.
+../data/DUMMY2/p253/p253_348.wav|70|tə dˈuː sˌoʊ hiː ɹᵻkˈɑːnz ðˌæɾə ɡˈʊd ˈoʊpənɪŋ ɹɪzˈʌlt ɪz ᵻsˈɛnʃəl.
+../data/DUMMY2/p253/p253_112.wav|70|ɪz ðæt ɹˈaɪt?
+../data/DUMMY2/p253/p253_405.wav|70|ʌntˈɪl ðeɪ kˈeɪm tə dˈuː ɪt.
+../data/DUMMY2/p253/p253_106.wav|70|ˈɔɪl ɛmbˈɑːɹɡoʊ ɛndˈoːɹst.
+../data/DUMMY2/p253/p253_033.wav|70|ðˈɛn, sˈʌdənli, ðeɪ wˈɜːnt.
+../data/DUMMY2/p335/p335_259.wav|49|ðæt wʌzɐ bˈoʊnəs, bˌʌt ɪt wʌz nˌɑːt ðə mˈeɪn ɑːbdʒˈɛktɪv.
+../data/DUMMY2/p335/p335_419.wav|49|hiː ɪz nˌɑːt vˈɛɹi bˈɪɡ, ˈiːðɚ.
+../data/DUMMY2/p335/p335_088.wav|49|aɪ kˈeɪm ˌʌp θɹuː ðə ɹˈæŋks.
+../data/DUMMY2/p335/p335_149.wav|49|wɪɹ nˌɑːt sˈiːɪŋ ɐn ˈɪmɪdʒ ʌvðə pˈɜːsən, hiː sˈɛd.
+../data/DUMMY2/p335/p335_266.wav|49|aɪ θˈɪŋk wiːv ɡɑːt ðə bˈæləns ɹˈaɪt.
+../data/DUMMY2/p335/p335_141.wav|49|wiː hˈævənt sˈiːn fɹʌmðə bˈæŋk ʌv skˈɑːtlənd.
+../data/DUMMY2/p335/p335_094.wav|49|fˈoːɹ ˈʌðɚ tʃˈɑːɹdʒᵻz wɜː dɹˈɑːpt.
+../data/DUMMY2/p335/p335_082.wav|49|ɪts wˈɜːkfoːɹs ɪz təbi mˌeɪd ɹᵻdˈʌndənt.
+../data/DUMMY2/p335/p335_140.wav|49|dˈoʊnt ˈiːvən bˈɑːðɚɹ ɐplˈaɪɪŋ.
+../data/DUMMY2/p335/p335_210.wav|49|dʒˈɑːn lˈɛnən ɪz ɐ vˈɛɹi lˈɑːɹdʒ ˈɪndʌstɹi.
+../data/DUMMY2/p245/p245_267.wav|59|ˌaʊɚɹ ɑːbdʒˈɛktɪv ɪz tə tˈækəl pˈɑːvɚɾi.
+../data/DUMMY2/p245/p245_032.wav|59|ðeɪ wɜː dᵻskɹˈaɪbd æz bˌiːɪŋ ɪn ɐ sˈɪɹiəs bˌʌt stˈeɪbəl kəndˈɪʃən jˈɛstɚdˌeɪ.
+../data/DUMMY2/p245/p245_203.wav|59|ðə kˈaʊnsəl hɐz pɹəpˈoʊzd ɐ tˈɛmpɚɹˌɛɹi bˈæɹiɚ tə pɹətˈɛkt ðə mˈɑːnjuːmənt.
+../data/DUMMY2/p245/p245_265.wav|59|sˈɪmɪlɚ mˈɛʒɚz ɑːɹ ɛkspˈɛktᵻd ɪn ˈɪŋɡlənd ænd wˈeɪlz.
+../data/DUMMY2/p245/p245_087.wav|59|ðə ɹˈiːzən ɪz tə dˈuː wɪððə nˈeɪtʃɚɹ ʌvðə skˈɑːtlənd mˈænɪdʒɚ.
+../data/DUMMY2/p245/p245_050.wav|59|hˌuː kæn sˈeɪ?
+../data/DUMMY2/p245/p245_115.wav|59|bˈʌkɪŋˌæm pˈælɪs sˈɛd ðɪ ɐpˈɔɪntmənt wʌzɐ mˈæɾɚ fɚðə pɹˈɪns.
+../data/DUMMY2/p245/p245_237.wav|59|wiː dɪdnˌɑːt kəmpˈiːt wɪð ˌɛni ˈʌðɚ lˈoʊkəl fˈɑːɹmɚ.
+../data/DUMMY2/p245/p245_256.wav|59|aɪ wʌz hˈæpɪli sɚpɹˈaɪzd.
+../data/DUMMY2/p245/p245_144.wav|59|ɐ lˈeɪbɚɹ ɪnsˈaɪdɚ sˈɛd ɪt wʌz fˈɑːɹ tˈuː klˈoʊs tə kˈɔːl.
+../data/DUMMY2/p298/p298_004.wav|68|wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz.
+../data/DUMMY2/p298/p298_268.wav|68|ɪɾ ɪz ɐ dˈɪfɪkəlt θˈɪŋ tʊ ɛksplˈeɪn.
+../data/DUMMY2/p298/p298_107.wav|68|ˈɜːdʒənt ˈækʃən ɪz nˈiːdᵻd tə tˈækəl ðɪs kɹˈaɪsɪs.
+../data/DUMMY2/p298/p298_359.wav|68|aɪ wʌz hˈæpɪɪst wɪð maɪ ʃˈɔːɹt ɡˈeɪm.
+../data/DUMMY2/p298/p298_102.wav|68|nˈɛkst lˈiːɡ mˈætʃᵻz, dˈʌndiː juːnˈaɪɾᵻd kɪlmˈɑːɹnɑːk.
+../data/DUMMY2/p298/p298_297.wav|68|ðæt ɪz ɐ dʒˈɑːb fɚðə ɡˈʌvɚnmənt.
+../data/DUMMY2/p298/p298_151.wav|68|ɪɾ ɪz ˈɔːlweɪz ðə sˈeɪm, ˈɪzənt ɪt?
+../data/DUMMY2/p298/p298_397.wav|68|ðə pɹˈɛʃɚ wʌz nˈaʊ bˈæk ˌɔn mˈɪstɚɹ ˈæɹɐfˌæt.
+../data/DUMMY2/p298/p298_181.wav|68|wiː ˌɑːɹnt ɡˌoʊɪŋ tə plˈeɪ bˈɛɾɚ.
+../data/DUMMY2/p298/p298_363.wav|68|wʊd hiː biː ˈeɪbəl tə lˈɪv wɪð ðˈæt?
+../data/DUMMY2/p225/p225_090.wav|101|aɪ dɪdnˌɑːt hæv ɐ bˈɛt ˌɔn maɪsˈɛlf.
+../data/DUMMY2/p225/p225_066.wav|101|ɪɾ ɪz ɐ dʒˈɑːb kɹiːˈeɪʃən skˈiːm.
+../data/DUMMY2/p225/p225_350.wav|101|haʊˈɛvɚ, ðɛɹ ɪz ɐn ˈɪʃuː, ˌɪzənt ðˈɛɹ ?
+../data/DUMMY2/p225/p225_063.wav|101|bˈoʊθ sˈaɪdz hɐvbɪn hˈɪt baɪ ˈɪndʒɚɹi.
+../data/DUMMY2/p225/p225_046.wav|101|nˈoʊ diːtˈeɪlz ʌvðə tˈɔːks wɜː ɡˈɪvən.
+../data/DUMMY2/p225/p225_026.wav|101|hˈaʊ ɑːɹ juː, sˈɜː ?
+../data/DUMMY2/p225/p225_159.wav|101|nˈiːðɚ sˈaɪd kæn wˈɪn ðɪs wˈɔːɹ.
+../data/DUMMY2/p225/p225_195.wav|101|ɪɾ ɪz hˈɑːɹd tə tˈɛl.
+../data/DUMMY2/p225/p225_024.wav|101|ðɪs ɪz ɐ vˈɛɹi kˈɑːmən tˈaɪp ʌv bˈoʊ, wˈʌn ʃˈoʊɪŋ mˈeɪnli ɹˈɛd ænd jˈɛloʊ, wɪð lˈɪɾəl ɔːɹ nˈoʊ ɡɹˈiːn ɔːɹ blˈuː.
+../data/DUMMY2/p225/p225_116.wav|101|jˈɛstɚdˌeɪ ðə kˈʌmpəni ɹᵻpˈoːɹɾᵻd ɐ fˈɜːðɚ dˈaʊntɜːn ɪn pɹˈɑːfɪts.
+../data/DUMMY2/p317/p317_167.wav|97|aɪ tɹˈaɪ təbi ˈoʊpən tʊ ɛkspˈiəɹɪəns.
+../data/DUMMY2/p317/p317_280.wav|97|ɪt wʌz ˈɔːlweɪz ˈoʊpən fɔːɹ ɛkstˈɛnʃən.
+../data/DUMMY2/p317/p317_336.wav|97|ʃiː wʌz tʃˈɑːɹdʒd wɪð pˈɜːdʒɚɹi.
+../data/DUMMY2/p317/p317_275.wav|97|aɪɐm tˈoʊɾəli sɚpɹˈaɪzd.
+../data/DUMMY2/p317/p317_404.wav|97|ɪts ˈoʊnli tˈæklɪŋ kəndʒˈɛstʃən.
+../data/DUMMY2/p317/p317_421.wav|97|wiː duːnˈɑːt, æt ðə mˈoʊmənt, hæv ɐ ʃˈɔːɹɾɪdʒ.
+../data/DUMMY2/p317/p317_108.wav|97|ðeɪ ɪŋklˈuːdᵻd sˈɜːʔn̩ ɪnʃˈʊɹɹəns pˈɑːlɪsiz, ænd hɪz ʃˈɛɹ ʌvðə hˈaʊs.
+../data/DUMMY2/p317/p317_181.wav|97|aɪl dʒˈʌst dˈuː maɪ bˈɛst.
+../data/DUMMY2/p317/p317_340.wav|97|stˈuːɚt wɪl tɹˈævəl wɪð sˌʌm kˈɑːnfɪdəns.
+../data/DUMMY2/p317/p317_131.wav|97|mˈɪstɚ wˈɪlsən hæd tˈuː bɹˈʌðɚz ænd θɹˈiː sˈɪstɚz.
+../data/DUMMY2/p314/p314_229.wav|51|θɹˈiː wˈiːks lˈeɪɾɚ, hiː ɹɪzˈaɪnd.
+../data/DUMMY2/p314/p314_422.wav|51|hˈoʊpfəli, wiː kæn lˈɜːn fɹʌm ˌaʊɚ mɪstˈeɪks.
+../data/DUMMY2/p314/p314_408.wav|51|ðɛɹ ɪz nˈoʊ smˈoʊkɪŋ ɡˈʌn.
+../data/DUMMY2/p314/p314_403.wav|51|fɹˈɛndz ʌvðə fˈæmɪli hæv ɡˈɪvən ðɛɹ səpˈoːɹt.
+../data/DUMMY2/p314/p314_051.wav|51|aɪm fˈiːlɪŋ pɹˈɪɾi ɡˈʊd.
+../data/DUMMY2/p314/p314_147.wav|51|ðɛɹ ɪz nˈoʊ sˈʌtʃ θˈɪŋ.
+../data/DUMMY2/p314/p314_269.wav|51|ðeɪv bˌɪn æɾ ɪt fɔːɹ fˈaɪv ˈaʊɚz.
+../data/DUMMY2/p314/p314_315.wav|51|wiː ɑːɹ nˈaʊ sˈɛɾɪŋ ɐbˌaʊt fˈaɪndɪŋ ðˌɛm.
+../data/DUMMY2/p314/p314_157.wav|51|ɪts ˈɔːl tˈuː ʃˈɔːɹt tˈɜːm.
+../data/DUMMY2/p314/p314_043.wav|51|aɪm dᵻlˈaɪɾᵻd wɪð hˌaʊ hiː hɐz kˈʌm θɹˈuː.
+../data/DUMMY2/p302/p302_094.wav|30|ðə bˈoʊt wʌz fˈʊli ɪkwˈɪpt wɪð sˈeɪfti ɪkwˈɪpmənt.
+../data/DUMMY2/p302/p302_132.wav|30|mˈɛɹi ˈɑːɹtʃɚɹ ɪz ˈɔːlmoʊst tˈuː klˈɛvɚ.
+../data/DUMMY2/p302/p302_109.wav|30|ɔːɹ sˌoʊ ɪt wʊd ɐpˈɪɹ.
+../data/DUMMY2/p302/p302_047.wav|30|ðeɪ dˈoʊnt tˈeɪk juː tə mˈæs ɡɹˈeɪvz.
+../data/DUMMY2/p302/p302_022.wav|30|ðɪ ˈæktʃuːəl pɹˈaɪmɚɹi ɹˈeɪnboʊ əbzˈɜːvd ɪz sˈɛd təbi ðɪ ɪfˈɛkt əvə sˈuːpɚɹɪmpəzˈɪʃən əvə nˈʌmbɚɹ ʌv bˈoʊz.
+../data/DUMMY2/p302/p302_017.wav|30|ˈʌðɚz hæv tɹˈaɪd tʊ ɛksplˈeɪn ðə fɪnˈɑːmɪnən fˈɪzɪkli.
+../data/DUMMY2/p302/p302_244.wav|30|aɪm bˈæk plˈeɪɪŋ fˈʊtbɔːl, wˌɪtʃ ɪz wʌt ɪts ˈɔːl ɐbˈaʊt.
+../data/DUMMY2/p302/p302_286.wav|30|ðə nˈuː sˈɪstəm wɪl biː mˈɑːɹkɪɾᵻd ðɪs sˈʌmɚ.
+../data/DUMMY2/p302/p302_065.wav|30|ɪɾ ɪz dʒˈʌst pˈɑːɹt ʌv mˈɑːdɚn dˈeɪ lˈaɪf.
+../data/DUMMY2/p302/p302_186.wav|30|ðeɪ hæv tˈuː tʃˈɪldɹən.
+../data/DUMMY2/p306/p306_238.wav|12|ɪɾ ɪz dˈɪfɪkəlt wɛn juː dˈoʊnt nˈoʊ ˈɛnɪwˌʌn.
+../data/DUMMY2/p306/p306_096.wav|12|ðeɪ tˈoʊld ˌʌs ɐbˌaʊt ɪt ðə nˈɛkst dˈeɪ.
+../data/DUMMY2/p306/p306_154.wav|12|dˈʌz ðæt pˌʊt pɹˈɛʃɚɹ ˈɔn ˌʌs?
+../data/DUMMY2/p306/p306_123.wav|12|ðɪs ɪz nˌɑːt ˌʌndɚstˈʊd baɪ pˈiːpəl aʊtsˈaɪd.
+../data/DUMMY2/p306/p306_299.wav|12|ðeɪ fˈɪnɪʃt sˈɛkənd ænd θˈɜːd.
+../data/DUMMY2/p306/p306_265.wav|12|hˈɑːlənd wˈʌn baɪ fˈaɪv wˈɪkɪts.
+../data/DUMMY2/p306/p306_231.wav|12|wiː hæv tɹˈaɪd tə kˈiːp hɪz hˈɛd ˈʌp.
+../data/DUMMY2/p306/p306_312.wav|12|ðɪ ˈælaɪz ɪntˈɛnd tə meɪntˈeɪn ðɪ ˈævɹɪdʒ.
+../data/DUMMY2/p306/p306_229.wav|12|juː kæn fˈiːl æt hˈoʊm ɪn tʃˈaɪnə.
+../data/DUMMY2/p306/p306_062.wav|12|ðˈɪs, hiː tˈoʊld ðə kəmˈɪɾi, wʌz nˌɑːt fˈɔːɹθkʌmɪŋ.
+../data/DUMMY2/p238/p238_323.wav|37|ðɪ ˈɜːli fˈɪzɪkəl ɹᵻpˈoːɹts wɜː klˈɪɹ.
+../data/DUMMY2/p238/p238_203.wav|37|ɪz ˌaʊɚ tʃˈɪldɹən lˈɜːnɪŋ ?
+../data/DUMMY2/p238/p238_342.wav|37|hiː ɪz ðə sˈʌn ʌv fˈɔːɹmɚ tʃˈɛɹmən, lˈɔːɹd wˈʊlfsən.
+../data/DUMMY2/p238/p238_169.wav|37|aɪ kæn sˈiː ɪt nˈaʊ.
+../data/DUMMY2/p238/p238_131.wav|37|ðɪs ɪz ɐ sˈaɪzəbəl pˈɑːɹt ʌv ˌaʊɚ bˈɪznəs.
+../data/DUMMY2/p238/p238_120.wav|37|ɑːɹ ðeɪ fɹˈiː ?
+../data/DUMMY2/p238/p238_011.wav|37|wˌɛn ɐ mˈæn lˈʊks fɔːɹ sˈʌmθɪŋ bᵻjˌɔnd hɪz ɹˈiːtʃ, hɪz fɹˈɛndz sˈeɪ hiː ɪz lˈʊkɪŋ fɚðə pˈɑːt ʌv ɡˈoʊld æt ðɪ ˈɛnd ʌvðə ɹˈeɪnboʊ.
+../data/DUMMY2/p238/p238_243.wav|37|ɪɾ ɪz kɹˈuːʃəl fɔːɹ bˈoʊθ tˈiːmz.
+../data/DUMMY2/p238/p238_228.wav|37|ˈɑːɹni ɪɡnˈoːɹz ðə sədʒˈɛstʃən ðæt hiː hɐz ˈɛvɚ bˌɪn ˈɛnɪwˌɛɹ ˈɛls.
+../data/DUMMY2/p238/p238_082.wav|37|ðə ɹˈeɪt ʌv ɡɹˈoʊθ ɪn ɹˈoʊd tɹˈæfɪk ɪz ɔːlɹˌɛdi bɪɡˈɪnɪŋ tə slˈoʊ.
+../data/DUMMY2/p279/p279_346.wav|25|ðə dᵻsˈɪʒən ɪz ɐn ˈæbsəlˌuːt dɪsɡɹˈeɪs.
+../data/DUMMY2/p279/p279_189.wav|25|ɪt dʒˈʌst kˈeɪm ˌɪntʊ maɪ hˈɛd ðæt dˈeɪ.
+../data/DUMMY2/p279/p279_193.wav|25|wiː tˈɔːk ɐbˌaʊt mˈɪstɚ mˈaɪkəl dʒˈɑːnsən, ænd hiː ɪz ˈɔːsʌm.
+../data/DUMMY2/p279/p279_367.wav|25|ðɛɹ ɪz nˈoʊ ˈɛvɪdəns əvə lˈɪɾəl skˈɑːtlənd ɪmˈɜːdʒɪŋ.
+../data/DUMMY2/p279/p279_068.wav|25|ðə pɹˈɑːbləmz ɑːɹ ɐ ɹɪzˈʌlt ʌv ðæt ʃˈɔːɹtfɔːl.
+../data/DUMMY2/p279/p279_313.wav|25|spˈɛʃəl mˈɛʒɚz wɜː nˈiːdᵻd.
+../data/DUMMY2/p279/p279_281.wav|25|ðɛɹwˌʌz ɐ fˈaɪnəl ɹᵻvˈiːlɪŋ diːtˈeɪl ɐbˌaʊt ðə bɹˈɔːdkæst.
+../data/DUMMY2/p279/p279_225.wav|25|aɪɐm ɪmˈɛnsli sˈæd.
+../data/DUMMY2/p279/p279_385.wav|25|hiː ɹᵻpˈiːɾᵻd hɪz kˈɔːl fɚɹən ˈɪŋkwɚɹi ˌɪntʊ ðə pəlˈiːs ɹᵻspˈɑːns.
+../data/DUMMY2/p279/p279_159.wav|25|ɪɾ ɪz ɐn ˈæɾɪtˌuːd ʌv mˈaɪnd.
+../data/DUMMY2/p232/p232_215.wav|96|hɪz θˈɜːd ɡˈoʊl wʌz suːpˈɜːb.
+../data/DUMMY2/p232/p232_399.wav|96|pjˈuːpəlz wɜːɹ ɐlˈaʊd hˈoʊm æt lˈʌntʃtaɪm.
+../data/DUMMY2/p232/p232_194.wav|96|bˌʌt ɐ fˈaɪnəl dᵻsˈɪʒən wɪl nˌɑːt biː tˈeɪkən ʌntˈɪl ˈæftɚ ðɪ ᵻlˈɛkʃənz.
+../data/DUMMY2/p232/p232_180.wav|96|ðɪ ᵻvˈɛnt wʌz hˈɛld ɪnðə kˈaʊnsəlz hɛdkwˈɔːɹɾɚz ɪn hˈæməltən.
+../data/DUMMY2/p232/p232_139.wav|96|aɪɐm tˈoʊɾəli dɪvˈoʊɾᵻd tə ðɪs dʒˈɑːb.
+../data/DUMMY2/p232/p232_109.wav|96|hiː plˈænz tə kˈɔːl fɚɹən ˈeɪd pˈækɪdʒ fɹʌm mˈɪstɚ məkdˈɑːnəld.
+../data/DUMMY2/p232/p232_200.wav|96|hiːz nˌɑːt ɹˈɪʔn̩ æz ɐ tˈɛɹᵻbli ɛksˈaɪɾɪŋ pˈɜːsən ɪnðə bˈʊk.
+../data/DUMMY2/p232/p232_212.wav|96|hiː nˈoʊz ɐ lˈɑːt.
+../data/DUMMY2/p232/p232_373.wav|96|mˈɪstɚɹ ˈændɚsən wʌz nˌɑːt ˈæktɪŋ ɪnðə kˈoːɹs ʌv hɪz ɛmplˈɔɪmənt.
+../data/DUMMY2/p232/p232_065.wav|96|hiː wʌz pˈɑːpjʊlɚ.
+../data/DUMMY2/p273/p273_412.wav|56|dʒˈɔːɹdʒ ɪz ˌɔn ɐ tˈuːdˈeɪ vˈɪzɪt tə skˈɑːtlənd.
+../data/DUMMY2/p273/p273_333.wav|56|hiː dᵻklˈaɪnd tə kˈɑːmɛnt ˌɔn pˈɑːsᵻbəl dɪspˈoʊzəlz.
+../data/DUMMY2/p273/p273_297.wav|56|ɪz ɪɾ ɪnðə ɹˈaɪt plˈeɪs ?
+../data/DUMMY2/p273/p273_042.wav|56|aɪ wʌz ɪnspˈaɪɚd baɪ tˈuː θˈɪŋz.
+../data/DUMMY2/p273/p273_103.wav|56|wiː dɪzˈɜːv ɐ sɪɡnˈɪfɪkənt ɹˈaɪz.
+../data/DUMMY2/p273/p273_110.wav|56|aɪ kˈeɪm hˈɪɹ ðɪs wˈiːk tə wˈɜːk.
+../data/DUMMY2/p273/p273_204.wav|56|ðə stˈeɪtmənt kəntˈeɪnd nˈoʊ sɚpɹˈaɪzᵻz.
+../data/DUMMY2/p273/p273_419.wav|56|ðɐtsbˌɪn ˈɔːl ɚɹˈaʊnd jˈʊɹɹəp wɪð mˌiː.
+../data/DUMMY2/p273/p273_213.wav|56|ɪnvˈɛstɚz wɜːɹ ˈɔːlsoʊ kənsˈɜːnd ɐbˌaʊt mˈɑːɹdʒɪn pɹˈɛʃɚ.
+../data/DUMMY2/p273/p273_049.wav|56|wˌaɪ dˈuː juː wˈɔnt tə kˈʌm tʊ ˈɛdɪnbʌɹə ?
+../data/DUMMY2/p260/p260_306.wav|81|aɪ kæn lˈɪv wɪð ɪt.
+../data/DUMMY2/p260/p260_050.wav|81|hɜː bˈɑːdi wʌz fˈaʊnd ɐbˌaʊt fˈoːɹ mˈaɪlz fɹʌmðə kˈɑːɹ.
+../data/DUMMY2/p260/p260_119.wav|81|ɪɾ ɪz ɹˈʌbɪʃ.
+../data/DUMMY2/p260/p260_228.wav|81|ðə pˈɑːɹɾiz hɐvbɪŋ ɡˈɪvən ʌntˈɪl tədˈeɪ tə ɹᵻspˈɑːnd.
+../data/DUMMY2/p260/p260_118.wav|81|mˈɪstɚ kˈɪʃoʊm sˈɛd ðə mˈuːv wʌz mˌeɪd ɔnðɪ ɐdvˈaɪs ʌv kənsˈʌltənts.
+../data/DUMMY2/p260/p260_045.wav|81|ɐmˌʌŋ ðˌɛm ɑːɹ mˈɛni kɹˈɪmɪnəlz.
+../data/DUMMY2/p260/p260_343.wav|81|hiː hɐz tə lˈɜːn.
+../data/DUMMY2/p260/p260_131.wav|81|ˈɛvɹɪwˌʌn ɪz ɪn fˈeɪvɚɹ ʌvðə nˈiːd fɔːɹ wˈɛlfɛɹ ɹᵻfˈɔːɹm ɪn dʒˈɛnɚɹəl.
+../data/DUMMY2/p260/p260_073.wav|81|kɹˈɪs smˈɪθ, ðə kˈʌltʃɚ sˈɛkɹətɹi, sˈɛd hiː wʌz sˈæɾɪsfˌaɪd wɪððə dᵻsˈɪʒən.
+../data/DUMMY2/p260/p260_281.wav|81|wˌʌt wʊd biː ðə tˈaɪmteɪbəl fɔːɹ wɪθdɹˈɔːl?
+../data/DUMMY2/p343/p343_171.wav|21|ɪt hɐzbɪn hˈændəld ɛntˈaɪɚli pɹˈɑːpɚli.
+../data/DUMMY2/p343/p343_055.wav|21|maɪ mˈʌðɚɹ ɪz ɐ wˈɪdoʊ.
+../data/DUMMY2/p343/p343_335.wav|21|wiː plˈeɪd ðˌɛm ˈɔf ðə pˈɪtʃ.
+../data/DUMMY2/p343/p343_284.wav|21|wʊd ðeɪ wˈɜːk təɡˌɛðɚɹ ɐɡˈɛn?
+../data/DUMMY2/p343/p343_326.wav|21|ɪɾ ɪz tˈaɪm, hiː sˈɛd.
+../data/DUMMY2/p343/p343_144.wav|21|bˌʌt nˌɑːt ˈɔːl wɜː sˌoʊ dᵻfˈaɪənt.
+../data/DUMMY2/p343/p343_179.wav|21|ðɪs hɐzbɪn vˈɛɹi fɹʌstɹˈeɪɾɪŋ fɔːɹ hˌɪm.
+../data/DUMMY2/p343/p343_198.wav|21|wˈɛl, juː kæn hæv ɐ tɹˈiː.
+../data/DUMMY2/p343/p343_184.wav|21|fˈʊɾɪdʒ hɐzbɪn pˈæst ˌɔn tə ðə pəlˈiːs.
+../data/DUMMY2/p343/p343_375.wav|21|juː hæv tə dˈuː jʊɹ ɹᵻsˈɜːtʃ.
+../data/DUMMY2/p236/p236_341.wav|75|fˈaɪnəli, hiː pˈeɪd fɚðə mˈuːvi.
+../data/DUMMY2/p236/p236_107.wav|75|ðeɪ wɪl nˈoʊɾɪs ɐ dˈɪfɹəns.
+../data/DUMMY2/p236/p236_479.wav|75|ðˈɛŋ kˈeɪm ðə fɛɹwˈɛl tə jˈʊɹɹəp.
+../data/DUMMY2/p236/p236_467.wav|75|ɪt kæn ˈɔːl biː dˈʌn ˌoʊvɚ ðə fˈoʊn.
+../data/DUMMY2/p236/p236_386.wav|75|klˈɑːɹk ɪz bˈæk ˌɔn tˈɑːp fˈɔːɹm.
+../data/DUMMY2/p236/p236_418.wav|75|aɪ θˈɪŋk ɪts ɐ mˈɪɹəkəl.
+../data/DUMMY2/p236/p236_027.wav|75|mˈiːɾɪŋz wɪl ˈɔːlsoʊ ɹᵻmˈeɪn pɹˈaɪvət.
+../data/DUMMY2/p236/p236_145.wav|75|wiː wɪl pɹəvˈaɪd ɪmˈiːdɪət ˈæksɛs.
+../data/DUMMY2/p236/p236_031.wav|75|hiː wʌz dʒˈeɪld fɔːɹ fˈoːɹ jˈɪɹz.
+../data/DUMMY2/p236/p236_195.wav|75|æz mˈɛni æz ðə mˈɑːɹkɪt wɪl səpˈoːɹt.
+../data/DUMMY2/p241/p241_163.wav|86|lˈoʊkəl mˈænɪdʒɚz ɑːɹ ɔːlɹˌɛdi ɪnvˈɑːlvd ɪn tˈɔːks wɪð pətˈɛnʃəl ɪnvˈɛstɚz.
+../data/DUMMY2/p241/p241_307.wav|86|fˈʌndɪŋ fɚðə sˈaɪəns sˈɛntɚ hɐz kˈʌm fɹʌm ɐ nˈʌmbɚɹ ʌv sˈoːɹsᵻz.
+../data/DUMMY2/p241/p241_049.wav|86|hiː ɪz vˈɛɹi kənsˈɜːnd ɐbˌaʊt hɪz fˈɪtnəs æz ɐ fˈʊtbɔːlɚ.
+../data/DUMMY2/p241/p241_045.wav|86|wiː nˈiːd tə tʃˈæt.
+../data/DUMMY2/p241/p241_270.wav|86|ˈæksɛs hɐzbɪn ɐ nˈaɪtmɛɹ.
+../data/DUMMY2/p241/p241_011.wav|86|wˌɛn ɐ mˈæn lˈʊks fɔːɹ sˈʌmθɪŋ bᵻjˌɔnd hɪz ɹˈiːtʃ, hɪz fɹˈɛndz sˈeɪ hiː ɪz lˈʊkɪŋ fɚðə pˈɑːt ʌv ɡˈoʊld æt ðɪ ˈɛnd ʌvðə ɹˈeɪnboʊ.
+../data/DUMMY2/p241/p241_036.wav|86|ˌaɪtˈiː ʃˌʊdənt kˈʌm æz ɐ sɚpɹˈaɪz, bˌʌt ɪt dˈʌz.
+../data/DUMMY2/p241/p241_314.wav|86|kɹˈeɪɡ ɪz ɐ mˈeɪdʒɚ kənsˈɜːn fɔːɹ ˌʌs.
+../data/DUMMY2/p241/p241_360.wav|86|wiː ɑːɹ lˈʊkɪŋ fɔːɹ pɚfˈɛkʃən.
+../data/DUMMY2/p241/p241_152.wav|86|ðeɪ wɜː lˈeɪɾɚ dɪstʃˈɑːɹdʒd fɹʌm hˈɑːspɪɾəl.
+../data/DUMMY2/p307/p307_204.wav|22|jˈʊɹɹəp hɐz lˈɔst ɪts wˈeɪ ˌʌndɚ ðə sˈoʊʃəlˌɪsts.
+../data/DUMMY2/p307/p307_147.wav|22|ænd ɐ mˈaɪɾili ɪmpɹˈɛsɪv ɹᵻkˈoːɹdɪŋ ɪɾ ˈɪz, tˈuː.
+../data/DUMMY2/p307/p307_201.wav|22|wˈɛl, wˌʌt dˈuː juː nˈoʊ?
+../data/DUMMY2/p307/p307_185.wav|22|juː kæn sˈeɪ hiː ɡˈɛts ɐ sˈaɪzəbəl ɐmˈaʊnt.
+../data/DUMMY2/p307/p307_256.wav|22|wˈændʒɚ wʌz nˈɛvɚ lˈaɪk ðˈɪs.
+../data/DUMMY2/p307/p307_267.wav|22|aɪ duːnˌɑːt ˈoʊn ðə vˈɛsəl ɪŋ kwˈɛstʃən.
+../data/DUMMY2/p307/p307_119.wav|22|ɪɾ ɪz nˌɑːt ɡɹˈeɪt ˈɑːɹt.
+../data/DUMMY2/p307/p307_193.wav|22|hiː skˈoːɹd wˈʌŋ ɡˈoʊl ænd wʌz ˌɔn fˈaɪɚ.
+../data/DUMMY2/p307/p307_320.wav|22|aɪm vˈɛɹi plˈiːzd wɪð wʌt wiː hæv ɐtʃˈiːvd.
+../data/DUMMY2/p307/p307_359.wav|22|ɪt woʊnt hˈæpən ˌoʊvɚnˈaɪt, bˌʌt θˈɪŋz wɪl ɡɛt bˈɛɾɚ.
+../data/DUMMY2/p265/p265_052.wav|73|ɪts ðæt kˈaɪnd ʌv plˈeɪs.
+../data/DUMMY2/p265/p265_170.wav|73|aɪv bˌɪn ðˈɛɹ.
+../data/DUMMY2/p265/p265_099.wav|73|nˈaʊ, ðˈoʊ, hiː bᵻlˈiːvz ðætðə nˈuː fɔːɹmˈeɪʃən hɐz hˈɛlpt hɪz fˈɔːɹm.
+../data/DUMMY2/p265/p265_158.wav|73|juː hædtə ɡˌoʊ ænd sˈiː hˌɪm.
+../data/DUMMY2/p265/p265_250.wav|73|wiː hæv tʊ ɛkspˈænd.
+../data/DUMMY2/p265/p265_259.wav|73|ðeɪ wˈɔnt tə ʃˈʌt ðə skˈɑːɾɪʃ ˈɑːfɪs.
+../data/DUMMY2/p265/p265_311.wav|73|ðə pˈɑːɹɾi ɪz ˈʌp fɔːɹ ɪt.
+../data/DUMMY2/p265/p265_168.wav|73|ˈɔːlmoʊst ðə dˈeɪ ˈæftɚ ðɪ ᵻlˈɛkʃən, ðə bˈæɾəl lˈaɪnz wɜː dɹˈɔːn.
+../data/DUMMY2/p265/p265_227.wav|73|wˈɛl, ðeɪ wɜː ðɪ ʌnlˈʌki wˌʌnz.
+../data/DUMMY2/p265/p265_090.wav|73|dʒˈɜːnəlˌɪsts ʃˌʊd mˈeɪk hˌɪm.
+../data/DUMMY2/p249/p249_174.wav|80|wiː hæv ɐ bˈʌdʒɪt ɪn mˈɑːɹtʃ.
+../data/DUMMY2/p249/p249_221.wav|80|wiːl hæv tə wˈɜːk hˈɑːɹd tədˈeɪ.
+../data/DUMMY2/p249/p249_283.wav|80|juːv ɡɑːt tə hæv bˈoʊθ sˈaɪdz.
+../data/DUMMY2/p249/p249_211.wav|80|fˈɜːɡəsən ʃˌʊd tˈeɪk nˈoʊt.
+../data/DUMMY2/p249/p249_287.wav|80|ðə kəndˈɪʃən ʌv ðɛɹ ɐdˈɑːpʃən wʌz ðæt ðeɪ ʃˌʊd biː kˈɛpt təɡˈɛðɚ.
+../data/DUMMY2/p249/p249_099.wav|80|haʊˈɛvɚ, ɪt dɪdnˌɑːt ˈɛnd ðæt wˈeɪ.
+../data/DUMMY2/p249/p249_245.wav|80|wiː hæv spˈɛnt ðə lˈæst kˈʌpəl ʌv jˈɪɹz wɪð ˈæktɪŋ dᵻɹˈɛktɚz.
+../data/DUMMY2/p249/p249_192.wav|80|mˈɪlɚ wʌz ˈɛvɹi bˈɪt æz hˈæpi.
+../data/DUMMY2/p249/p249_310.wav|80|haʊˈɛvɚ, hiː ɪz ɐ kˈoʊtʃ, ænd hiː ɹᵻmˈeɪnz ɐ kˈoʊtʃ æt hˈɑːɹt.
+../data/DUMMY2/p249/p249_329.wav|80|ɪn ɐdˈɪʃən, sˈɜːʔn̩ ˈɛɹiəz ɑːɹ klˈoʊzd æt sˈɜːʔn̩ tˈaɪmz.
+../data/DUMMY2/p228/p228_224.wav|57|hiː sˈɛd ðæt hˈɛlθi ˈiːɾɪŋ wʌz hˈaɪ ɔnðə kˈaʊnsəl ɐdʒˈɛndə.
+../data/DUMMY2/p228/p228_093.wav|57|haʊˈɛvɚ, ɪt dɪdnˌɑːt ˈɛnd ðæt wˈeɪ.
+../data/DUMMY2/p228/p228_037.wav|57|ˌɪndˈiːd, hiː dˈʌz.
+../data/DUMMY2/p228/p228_027.wav|57|bɪkˈʌz wiː duːnˌɑːt nˈiːd ɪt.
+../data/DUMMY2/p228/p228_002.wav|57|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.
+../data/DUMMY2/p228/p228_299.wav|57|ɐ θˈaʊzənd jˈɪɹz ɐɡˈoʊ ðə tʃˈɜːtʃ wʌzɐ pˈaʊɚfəl fˈoːɹs ɪn jˈʊɹɹəp.
+../data/DUMMY2/p228/p228_140.wav|57|wiː ɑːɹ kˈɜːɹəntli kənsˈʌltɪŋ wɪð ɐ wˈaɪd ɹˈeɪndʒ ʌv ˈɪntɹɪstᵻd pˈɑːɹɾiz.
+../data/DUMMY2/p228/p228_134.wav|57|dᵻspˈaɪt ðə ɹɪzˈʌlt, ɪt wʌz stˈɪl ɐ ɡɹˈeɪt mˈoʊmənt.
+../data/DUMMY2/p228/p228_186.wav|57|wiː nˈuː nˈʌθɪŋ ɐbˈaʊt ɪt.
+../data/DUMMY2/p228/p228_168.wav|57|aɪv pˌʊt maɪ ˈoʊn mˈʌni ˌɪntʊ ðɪs pɹˈɑːdʒɛkt.
+../data/DUMMY2/p364/p364_020.wav|88|mˈɛni kˈɑːmplᵻkˌeɪɾᵻd aɪdˈiəz ɐbˌaʊt ðə ɹˈeɪnboʊ hɐvbɪn fˈɔːɹmd.
+../data/DUMMY2/p364/p364_036.wav|88|ɪt wʌz vˈɛɹi mˈuːvɪŋ, ˈæktʃuːəli.
+../data/DUMMY2/p364/p364_163.wav|88|ðɛɹwˌʌz nˈʌθɪŋ ˈɛnɪwˌʌŋ kʊd dˈuː.
+../data/DUMMY2/p364/p364_125.wav|88|ðɪs mˈiːnz ðæt ˌaʊɚ pɹˈoʊɡɹæm ɪz kwˈaɪt ʌnjˈuːʒuːəl.
+../data/DUMMY2/p364/p364_144.wav|88|aɪ dˈoʊnt ɛntˈaɪɚli bˈaɪ ðˈæt.
+../data/DUMMY2/p364/p364_008.wav|88|ðiːz tˈeɪk ðə ʃˈeɪp əvə lˈɔŋ ɹˈaʊnd ˈɑːɹtʃ, wɪð ɪts pˈæθ hˈaɪ əbˈʌv, ænd ɪts tˈuː ˈɛndz ɐpˈæɹəntli bᵻjˌɔnd ðə hɚɹˈaɪzən.
+../data/DUMMY2/p364/p364_035.wav|88|ɪt ʃˌʊdənt biː ɐ pɹˈɑːbləm.
+../data/DUMMY2/p364/p364_185.wav|88|ðɛɹˌɑːɹ tˈuː ˈɔfɚɹɪŋz fɹʌm skˈɑːtlənd.
+../data/DUMMY2/p364/p364_092.wav|88|bˌʌt ðɪs hɐz ɔːlɹˌɛdi bˌɪn ɹᵻdʒˈɛktᵻd.
+../data/DUMMY2/p364/p364_301.wav|88|ɪz hiː ˌɛni ɡˈʊd?
+../data/DUMMY2/p334/p334_300.wav|38|ɪts ɐ sˈaɪn ʌvðə tˈaɪmz.
+../data/DUMMY2/p334/p334_044.wav|38|ðɛɹwˌɜː nˈoʊ pˈæsɪndʒɚz ˌɔn bˈoːɹd.
+../data/DUMMY2/p334/p334_191.wav|38|hɪz ˈɪŋɡlɪʃ kˈaʊntɚpˌɑːɹt ɐɡɹˈiːd.
+../data/DUMMY2/p334/p334_195.wav|38|wiː mˈeɪ mˌeɪk ɐ ʃˈɔːɹttˈɜːm ɐpˈɔɪntmənt.
+../data/DUMMY2/p334/p334_220.wav|38|wiː mˈʌst ɪmpɹˈuːv ˌaʊɚ ɹᵻlˈeɪʃənz wɪð ɡˈʌvɚnmənt.
+../data/DUMMY2/p334/p334_317.wav|38|ɪt sˈiːmz ɐ lˈɪɾəl ʃˈɔːɹt tə mˌiː.
+../data/DUMMY2/p334/p334_004.wav|38|wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz.
+../data/DUMMY2/p334/p334_322.wav|38|ðˈɛn ɪt dɪvˈɛləpt ˌɪntʊ sˈɪvəl ænd kɹˈɪmɪnəl.
+../data/DUMMY2/p334/p334_002.wav|38|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.
+../data/DUMMY2/p334/p334_320.wav|38|hɪz ɹᵻplˈeɪsmənt wʌz nˈeɪmd jˈɛstɚdˌeɪ, fˈɑːloʊɪŋ ˈɪŋkwɚɹiz baɪ ðə hˈɛɹəld.
+../data/DUMMY2/p339/p339_119.wav|18|aɪ θˈɔːt ɪt wʌz kwˈaɪt ɡˈʊd.
+../data/DUMMY2/p339/p339_418.wav|18|aɪ θˈɔːt ðeɪ kˌʊdɐv mˌeɪd ðə dʒˈɛstʃɚ.
+../data/DUMMY2/p339/p339_313.wav|18|nˈoʊwˈʌŋ kæn tˈeɪk ɪɾ ˈɪn.
+../data/DUMMY2/p339/p339_201.wav|18|wɪɹ ˈɔːl pˈeɪɪŋ fɔːɹ ɪt.
+../data/DUMMY2/p339/p339_043.wav|18|aɪ sˈɛd tə hˌɪm.
+../data/DUMMY2/p339/p339_139.wav|18|hˌaʊ kæn ðeɪ tˈɛl?
+../data/DUMMY2/p339/p339_424.wav|18|wˈɪtʃ, ɪn ɪfˈɛkt, ɪɾ ˈɪz.
+../data/DUMMY2/p339/p339_018.wav|18|ˈæɹɪstˌɑːɾəl θˈɔːt ðə ɹˈeɪnboʊ wʌz kˈɔːzd baɪ ɹᵻflˈɛkʃən ʌvðə sˈʌnz ɹˈeɪz baɪ ðə ɹˈeɪn.
+../data/DUMMY2/p339/p339_224.wav|18|wˌʌts ɪɾ ɐbˈaʊt?
+../data/DUMMY2/p339/p339_085.wav|18|aɪ hæd ɐ fˈɔːɹtʃənət wˈɔːɹ.
+../data/DUMMY2/p259/p259_426.wav|7|bˌʌt ðə faʊndˈeɪʃənz hɐvbɪn lˈeɪd.
+../data/DUMMY2/p259/p259_182.wav|7|ɪf ðæts ðə kˈeɪs, hiː wɪl stɹˈʌɡəl.
+../data/DUMMY2/p259/p259_284.wav|7|ɪt mˌeɪks nˈoʊ dˈɪfɹəns tə ðɛɹ fɹˈɛndʃɪp.
+../data/DUMMY2/p259/p259_037.wav|7|tʃˈaɪld bˈɛnɪfˌɪt wɪl nˌɑːt biː ɐfˈɛktᵻd.
+../data/DUMMY2/p259/p259_200.wav|7|tɹˈɛʒɚɹi spˈoʊksmən mˈælkəm bɹˈuːs ɪz ˈɔːlsoʊ kənsˈɪdɚd ɐ pətˈɛnʃəl kəntˈɛndɚ.
+../data/DUMMY2/p259/p259_478.wav|7|juː hæv tə hæv ɐ pɹˈuːvən tɹˈæk ɹˈɛkɚd tə ɡˈɛt ðˌɛm.
+../data/DUMMY2/p259/p259_462.wav|7|wiː pˌʊt ˌaʊɚ bˈɪd ɪn lˈæst nˈaɪt.
+../data/DUMMY2/p259/p259_082.wav|7|ðə sˈɪɾi kˈaʊnsəl ɪz ɐ mˈeɪdʒɚ pɹˈɑːpɚɾi ˈoʊnɚɹ ɪnðɪ ˈɛɹiə.
+../data/DUMMY2/p259/p259_265.wav|7|dˈɪd ɪt wˈɜːk ?
+../data/DUMMY2/p259/p259_270.wav|7|hiː wʌz ɡˈʊd, bˌʌt nˌɑːt ðæt ɡˈʊd.
+../data/DUMMY2/p230/p230_286.wav|35|ðæt wʌzɐ ɡˈoʊld mˈɛdəl fɔːɹ sˈɜːʔn̩.
+../data/DUMMY2/p230/p230_077.wav|35|lˈæst wˈiːk, hiː wʌz tˈeɪkən ˌɪntʊ hˈɑːspɪɾəl.
+../data/DUMMY2/p230/p230_134.wav|35|ɪt wʌzɐ pˈiːs ʌv ˈɑːɹt.
+../data/DUMMY2/p230/p230_117.wav|35|wˌɪtʃ kæn hˈæpən ˌɛni tˈaɪm.
+../data/DUMMY2/p230/p230_228.wav|35|hiː ɹᵻmˈeɪnz ɐ mˈeɪn bˈoːɹd dᵻɹˈɛktɚɹ ʌv ɹˈɔɪəl.
+../data/DUMMY2/p230/p230_304.wav|35|aɪ wʌz ðɛɹ fˈaɪv mˈʌnθs ɐɡˈoʊ.
+../data/DUMMY2/p230/p230_107.wav|35|ɪɾ ɪz ɐ tˈoʊɾəl ænd ˈʌɾɚ tʃˈeɪndʒ ʌv kˈʌltʃɚ.
+../data/DUMMY2/p230/p230_368.wav|35|lˈaɪk hɪz ˈæktɪŋ, ɪt wʌz ɐn ˈæksɪdənt.
+../data/DUMMY2/p230/p230_406.wav|35|wɪɹ ˈɑːbviəsli dɪstˈɜːbd baɪ ðɪs kˈeɪs.
+../data/DUMMY2/p230/p230_226.wav|35|haʊˈɛvɚ, dˈʌndiː dɪzˈɜːvd tə wˈɪn ðɪs ɡˈeɪm.
+../data/DUMMY2/p308/p308_230.wav|107|sɚvˈaɪvəl ɪz ˌaʊɚɹ ˈeɪm.
+../data/DUMMY2/p308/p308_192.wav|107|aɪ fˈɛlt wiː hæd fˈɔːlən bˈæk ɐ lˈɪɾəl.
+../data/DUMMY2/p308/p308_257.wav|107|ɪt dˈɪdnt tˈeɪk lˈɔŋ.
+../data/DUMMY2/p308/p308_390.wav|107|hɪz dˈɛθ wʌzɐ tɹˈædʒɪk ˈæksɪdənt.
+../data/DUMMY2/p308/p308_281.wav|107|wiːv tˈeɪkən stˈɛps tə ɹˈɛktᵻfˌaɪ ɪt.
+../data/DUMMY2/p308/p308_290.wav|107|hˈɑːlɪɹˌuːd ɪz dʒˈʌst ɐ pˈɑːɹt ʌvðə dʒˈɪɡsɔː.
+../data/DUMMY2/p308/p308_316.wav|107|ɪz ðæt taɪtˈænɪk?
+../data/DUMMY2/p308/p308_252.wav|107|wiː kˌʊdɐv ɡɑːt θɹˈiː mˈɛdəlz.
+../data/DUMMY2/p308/p308_012.wav|107|θɹuːˈaʊt ðə sˈɛntʃɚɹiz pˈiːpəl hæv ɛksplˈeɪnd ðə ɹˈeɪnboʊ ɪn vˈɛɹiəs wˈeɪz.
+../data/DUMMY2/p308/p308_277.wav|107|ðɪs ɪz nˈɑːt, haʊˈɛvɚ, ɐ dʒˈɛnɚɹəl ᵻlˈɛkʃən ɹᵻʃˈʌfəl.
+../data/DUMMY2/p330/p330_146.wav|1|aɪ nˈɛvɚ θˈɔːt ɪt wʊd tˈeɪk ðɪs lˈɔŋ.
+../data/DUMMY2/p330/p330_205.wav|1|ˈoʊnli ðə skˈeɪl ʌv tʃˈeɪndʒ dˈɪfɚd.
+../data/DUMMY2/p330/p330_367.wav|1|aɪ θˈɪŋk wiː fˈɪnɪʃt fˈɪfθ.
+../data/DUMMY2/p330/p330_064.wav|1|wˈʌn, ðɪ ɐkjˈuːt sˈɜːvɪsᵻz tɹˈʌst, wɪl ɹˈʌn ðə dʒˈɛnɚɹəl hˈɑːspɪɾəl sˈɜːvɪsᵻz.
+../data/DUMMY2/p330/p330_299.wav|1|mˈoʊʃən dᵻskɹˈaɪbd ɪɾ æz ɐ juːnˈiːk ᵻvˈɛnt.
+../data/DUMMY2/p330/p330_083.wav|1|ˌaʊɚ dɪspjˈuːt ɪz wɪððə kˈʌmpəni, nˌɑːt ðə tɹˈævəlɪŋ pˈʌblɪk.
+../data/DUMMY2/p330/p330_126.wav|1|ɪts lˈaɪk ɐ hˈaɪ skˈuːl plˈeɪ.
+../data/DUMMY2/p330/p330_160.wav|1|ɐ ɹᵻpˈoːɹt wɪl biː ˈɪʃuːd baɪ mˈɑːɹtʃ.
+../data/DUMMY2/p330/p330_020.wav|1|mˈɛni kˈɑːmplᵻkˌeɪɾᵻd aɪdˈiəz ɐbˌaʊt ðə ɹˈeɪnboʊ hɐvbɪn fˈɔːɹmd.
+../data/DUMMY2/p330/p330_161.wav|1|wɪɹ dʒˈʌst ɐ fˈæmɪli wˈɜːkɪŋ hˈɑːɹd, wˈɜːkɪŋ sˈɛvən dˈeɪz ɐ wˈiːk.
+../data/DUMMY2/p285/p285_057.wav|2|skˈɑːtlənd hæd ɡɹˈeɪt ˈæsɛts.
+../data/DUMMY2/p285/p285_088.wav|2|bˌʌt aɪ wʌz ɹˈɔŋ.
+../data/DUMMY2/p285/p285_241.wav|2|ɪf wiː lˈuːz ðə dˈɑːktɚɹ ɪt wʊd biː ðə lˈæst stɹˈɔː.
+../data/DUMMY2/p285/p285_242.wav|2|wiː lˈɔst ˌaʊɚ kəmpˈoʊʒɚ təwˈɔːɹdz ðɪ ˈɪntɚvəl, hiː sˈɛd.
+../data/DUMMY2/p285/p285_369.wav|2|baɪ ðæt tˈaɪm, haʊˈɛvɚ, ɪt wʌz ɔːlɹˌɛdi tˈuː lˈeɪt.
+../data/DUMMY2/p285/p285_175.wav|2|ɪɾ ɪz nˌɑːt ˈiːðɚ nˈæʃənəl stˈændɚdz ɔːɹ lˈoʊkəl kəntɹˈoʊl.
+../data/DUMMY2/p285/p285_001.wav|2|plˈiːz kˈɔːl stˈɛlə.
+../data/DUMMY2/p285/p285_230.wav|2|ðeɪ tɹˈaɪd tə ɡˈɪv hɜːɹ ɐdvˈaɪs.
+../data/DUMMY2/p285/p285_240.wav|2|ɪn fˈækt, ɪɾ ɪz dˈiːpli ʌnplˈɛzənt.
+../data/DUMMY2/p285/p285_312.wav|2|hˈɛnmən hɐzbɪn wˈɔːɹnd.
+../data/DUMMY2/p243/p243_171.wav|53|juː nˈiːd ɐ lˈɔŋtˈɜːm stɹˈæɾədʒi ɪn fˈʊtbɔːl.
+../data/DUMMY2/p243/p243_384.wav|53|wˌʌt dˈuː wiː dˈuː ?
+../data/DUMMY2/p243/p243_300.wav|53|sˈoʊ, dˈɪd ʃiː mˈiːt hˌɪm ?
+../data/DUMMY2/p243/p243_246.wav|53|aɪ θˈɪŋk, ðˈɛɹfoːɹ aɪˈæm ?
+../data/DUMMY2/p243/p243_082.wav|53|ɪts bˌɪn ɐ ɡɹˈeɪt ˈiːvnɪŋ fɔːɹ ˌʌs.
+../data/DUMMY2/p243/p243_144.wav|53|ðeɪ kæn bɹˈeɪk kwˈɪkli fɹʌm mˈɪdfiːld ænd kˈæɹi ɐ skˈoːɹɪŋ θɹˈɛt.
+../data/DUMMY2/p243/p243_193.wav|53|ɪɾ ɪnvˈɑːlvd ˈɛvɹɪθˌɪŋ ɪn tˈɜːmz ʌv bᵻhˈeɪvjɚ.
+../data/DUMMY2/p243/p243_297.wav|53|lˈoʊkəl mˈænɪdʒɚz ɑːɹ ɔːlɹˌɛdi ɪnvˈɑːlvd ɪn tˈɔːks wɪð pətˈɛnʃəl ɪnvˈɛstɚz.
+../data/DUMMY2/p243/p243_208.wav|53|ɡˈæs pɹədˈʌkʃən wʌz ˈɔːlsoʊ æt ɹˈɛkɚd lˈɛvəlz lˈæst jˈɪɹ.
+../data/DUMMY2/p243/p243_009.wav|53|ðɛɹˈɪz , ɐkˈoːɹdɪŋ tə lˈɛdʒənd, ɐ bˈɔɪlɪŋ pˈɑːt ʌv ɡˈoʊld æt wˈʌn ˈɛnd.
+../data/DUMMY2/p286/p286_063.wav|63|ɪt sˈiːmz tə hæv wˈɜːkt.
+../data/DUMMY2/p286/p286_286.wav|63|ˈænɐlˌɪsts hæd ɐ mˈɪkst ɹɪˈækʃən tə ðə nˈʌmbɚz.
+../data/DUMMY2/p286/p286_353.wav|63|ðæt ɪz ɐ tɹˈɛnd wˌɪtʃ wɪl biː ɛŋkˈɜːɹɪdʒd.
+../data/DUMMY2/p286/p286_211.wav|63|mˈɪstɚ blˈɛɹ wʌz ɹˈɛdi fɔːɹ hˌɪm.
+../data/DUMMY2/p286/p286_283.wav|63|blˈɛɹ ɪz vˈɛɹi pˈɑːzᵻtˌɪv æt jˌʊɹɹəpˈiəŋ kˈaʊnsəlz.
+../data/DUMMY2/p286/p286_378.wav|63|fˈaɪnəli kˈeɪm ðə mˈoʊmənt ʌv tɹˈuːθ.
+../data/DUMMY2/p286/p286_284.wav|63|ðeɪ mˈʌst plˈeɪ fɔːɹ ˈiːtʃ ˈʌðɚ.
+../data/DUMMY2/p286/p286_060.wav|63|wiː wʊdhɐv kənsˈɜːnz ɐbˌaʊt səspˈɛnʃən.
+../data/DUMMY2/p286/p286_056.wav|63|pˈiːpəl kˈʌm tə sˈiː ðə hˈaɪləndz.
+../data/DUMMY2/p286/p286_180.wav|63|fˈɜːst ænd fˈɔːɹmoʊst, ðə ɡˈeɪm ɪz ɛntˈaɪɚli dˈɪfɹənt.
+../data/DUMMY2/p274/p274_155.wav|32|ðə dˈeɪndʒɚɹ ɪz ˈɔːlweɪz ðˈɛɹ.
+../data/DUMMY2/p274/p274_130.wav|32|ðæt wʊd ˈoʊpən ðə ɡˈeɪts ʌv hˈɛl.
+../data/DUMMY2/p274/p274_178.wav|32|wʌz ˈɛvɹɪθˌɪŋ dˈʌn tə sˈeɪv pˈiːpəl ?
+../data/DUMMY2/p274/p274_301.wav|32|ænd wiː wɜː vˈɛɹi lˈʌki.
+../data/DUMMY2/p274/p274_072.wav|32|wˌʌt kˈaɪnd ʌv mˈæn dˈʌz ðˈæt, mˈɪstɚ dˈɪk ?
+../data/DUMMY2/p274/p274_166.wav|32|ðeɪ hɐdbɪn fˈoːɹst tə wˈɔːk.
+../data/DUMMY2/p274/p274_373.wav|32|ˈæftɚ ðə mˈætʃ, dˈuː juː ?
+../data/DUMMY2/p274/p274_220.wav|32|ðə pɹˈaɪm mˈɪnɪstɚ hɐz ɐ hjˈuːdʒ ɹᵻɡˈɑːɹd fɔːɹ mˈoʊ.
+../data/DUMMY2/p274/p274_393.wav|32|ðə lˈɔː wʊd ɐpˈɪɹ təbi ˌɔn ˌaʊɚ sˈaɪd.
+../data/DUMMY2/p274/p274_327.wav|32|ɪz ɪt wˈɜːθ ɪt ?
+../data/DUMMY2/p323/p323_278.wav|34|mˈiːntaɪm, hɪz ɐpˈɔɪntmənt hɐzbɪn wˈaɪdli wˈɛlkʌmd.
+../data/DUMMY2/p323/p323_108.wav|34|aɪvhˌæd ɐ vˈɛɹi lˈɔŋ ɹˈʌn.
+../data/DUMMY2/p323/p323_182.wav|34|hiː wʌz mˈæɹid wɪð tʃˈɪldɹən.
+../data/DUMMY2/p323/p323_288.wav|34|wiː nˈiːd tʊ ɪŋkɹˈiːs ðə mˈɛmbɚʃˌɪp.
+../data/DUMMY2/p323/p323_390.wav|34|ðɛɹ ɪz ɡɹˈeɪt ˈɪntɹɪst ˌɔn ˌaʊɚɹ ˈaɪlənd.
+../data/DUMMY2/p323/p323_146.wav|34|bˈɔɪ ɪz ðə tˈaʊn ɐ mˈɛs.
+../data/DUMMY2/p323/p323_153.wav|34|ɪɾ ɪz ɐ vˈɛɹi dɪstˈɜːbɪŋ pˈɪktʃɚ fɔːɹ mˈɛn.
+../data/DUMMY2/p323/p323_305.wav|34|aɪ spˈoʊk wɪð dʒˈʌst wˈʌn plˈeɪɚ, bˌʌt nˌɑːt ðɪ ˈʌðɚz.
+../data/DUMMY2/p323/p323_316.wav|34|ðə kˈaʊnsəlz kənsˈɜːn ɪz vˈɛɹi sˈɪmpəl.
+../data/DUMMY2/p323/p323_238.wav|34|hˌuː kæn sˈeɪ?
+../data/DUMMY2/p275/p275_029.wav|40|ðɛɹ kˈɜːɹɪdʒ, ænd ðɛɹ ˈɑːnɪsti, ʃˌʊd biː ɹᵻspˈɛktᵻd.
+../data/DUMMY2/p275/p275_263.wav|40|ðæt ɹᵻvjˈuː wɪl lˈʊk æt ðə mˈænɪdʒmənt əkɹˌɑːs ðə sˈɛktɚɹ æz ɐ hˈoʊl.
+../data/DUMMY2/p275/p275_234.wav|40|ʌv kˈoːɹs aɪ wʌz tˈɛmptᵻd.
+../data/DUMMY2/p275/p275_218.wav|40|ðə kˈaʊnsəl hɐz pɹəpˈoʊzd ɐ tˈɛmpɚɹˌɛɹi bˈæɹiɚ tə pɹətˈɛkt ðə mˈɑːnjuːmənt.
+../data/DUMMY2/p275/p275_289.wav|40|wiː ɑːɹ nˌɑːt ɡˌoʊɪŋ tə fɚɡˈɛt.
+../data/DUMMY2/p275/p275_161.wav|40|ɪt wʌz baɪ ðə nˈʌmbɚz.
+../data/DUMMY2/p275/p275_427.wav|40|hiː dɪzˈɜːvd ɐ ɹˈɛd kˈɑːɹd.
+../data/DUMMY2/p275/p275_403.wav|40|ɪt mˌaɪt bˈiː.
+../data/DUMMY2/p275/p275_030.wav|40|ðeɪ wɜː dᵻskɹˈaɪbd æz bˌiːɪŋ ɪn ɐ sˈɪɹiəs bˌʌt stˈeɪbəl kəndˈɪʃən jˈɛstɚdˌeɪ.
+../data/DUMMY2/p275/p275_223.wav|40|sˈæɾɚdˌeɪ ɪz ɡˈɔn.
+../data/DUMMY2/p305/p305_279.wav|54|hiː wʌz hˈæpi, ðə bˌiːbˌiːsˈiː wʌz hˈæpi, ðə lˈɪsənɚz wɜː hˈæpi.
+../data/DUMMY2/p305/p305_213.wav|54|maɪ ˈoʊnli æmbˈɪʃən ɪz tʊ ɛndʒˈɔɪ maɪ wˈɜːk.
+../data/DUMMY2/p305/p305_013.wav|54|sˌʌm hæv ɐksˈɛptᵻd ɪɾ æz ɐ mˈɪɹəkəl wɪðˌaʊt fˈɪzɪkəl ɛksplɐnˈeɪʃən.
+../data/DUMMY2/p305/p305_330.wav|54|nˈeɪɾoʊ wʊd ɛnʃˈʊɹ ðeɪ kʊd ɹᵻtˈɜːn hˈoʊm, hiː sˈɛd.
+../data/DUMMY2/p305/p305_146.wav|54|maɪ fjˈuːtʃɚɹ ɪz ɪnðə mˈæɹəθˌɑːn.
+../data/DUMMY2/p305/p305_046.wav|54|ðeɪ ɹᵻsˈiːv ɐ hˈaɪ pɹˈoʊfaɪl ɪnðə mˈiːdiːə.
+../data/DUMMY2/p305/p305_230.wav|54|ˈɛvɹɪθˌɪŋ wʌz ˌʌp fɔːɹ ɡɹˈæbz.
+../data/DUMMY2/p305/p305_010.wav|54|pˈiːpəl lˈʊk, bˌʌt nˈoʊwˈʌn ˈɛvɚ fˈaɪndz ɪt.
+../data/DUMMY2/p305/p305_327.wav|54|wiː ɑːɹ nˈaʊ ˌʌp ɐɡˈɛnst ɪt.
+../data/DUMMY2/p305/p305_257.wav|54|ˈɪzɹiːəl hɐz dˈʌn vˈɛɹi lˈɪɾəl ʌntˈɪl nˈaʊ.
